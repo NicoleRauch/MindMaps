@@ -10,6 +10,48 @@
         "style": {
           "background": "#ff6600"
         }
+      },
+      "ideas": {
+        "1": {
+          "title": "im Modell so weit wie möglich beschränken",
+          "id": 21,
+          "ideas": {
+            "1": {
+              "title": "In der Richtung",
+              "id": 22,
+              "ideas": {
+                "1": {
+                  "title": "Unwichtige Richtung entfernen",
+                  "id": 26
+                }
+              }
+            },
+            "2": {
+              "title": "In der Multiplizität",
+              "id": 23,
+              "ideas": {
+                "1": {
+                  "title": "Einschränken durch Qualifizierer (= weitere Angaben)",
+                  "id": 27
+                }
+              }
+            },
+            "3": {
+              "title": "Eliminieren",
+              "id": 24,
+              "ideas": {
+                "1": {
+                  "title": "wenn sie nicht relevant für das Modell sind",
+                  "id": 28
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "Ein Design hat viele Implementierungen",
+          "id": 25
+        }
       }
     },
     "-1": {
