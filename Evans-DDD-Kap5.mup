@@ -1,0 +1,15 @@
+{
+  "title": "Modell-Elemente",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Assoziationen",
+      "id": 2
+    },
+    "-1": {
+      "title": "Objekte",
+      "id": 3
+    }
+  }
+}
