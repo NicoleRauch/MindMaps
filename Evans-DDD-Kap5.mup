@@ -9,7 +9,55 @@
     },
     "-1": {
       "title": "Objekte",
-      "id": 3
+      "id": 3,
+      "ideas": {
+        "1": {
+          "title": "Entität",
+          "id": 4,
+          "ideas": {
+            "1": {
+              "title": "Identität",
+              "id": 7,
+              "ideas": {
+                "1": {
+                  "title": "ist dies für das Modell relevant?",
+                  "id": 12
+                },
+                "2": {
+                  "title": "ist unabhängig von Attributen",
+                  "id": 13
+                }
+              }
+            },
+            "2": {
+              "title": "Kontinuität",
+              "id": 8,
+              "ideas": {
+                "1": {
+                  "title": "abstrakt",
+                  "id": 9
+                },
+                "2": {
+                  "title": "durchläuft einen Lebenszyklus",
+                  "id": 10
+                },
+                "3": {
+                  "title": "kann unterschiedliche Formen annehmen",
+                  "id": 11
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "Value Object",
+          "id": 5
+        },
+        "3": {
+          "title": "Service",
+          "id": 6
+        }
+      }
     }
   }
 }
