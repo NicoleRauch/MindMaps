@@ -38,6 +38,10 @@
                 "5": {
                   "title": "hat nichts mit Objekt-Identität zu tun",
                   "id": 16
+                },
+                "6": {
+                  "title": "über unterschiedliche Repräsentationen hinweg",
+                  "id": 20
                 }
               }
             },
@@ -85,5 +89,27 @@
         }
       }
     }
-  }
+  },
+  "links": [
+    {
+      "ideaIdFrom": 20,
+      "ideaIdTo": 19,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 13,
+      "ideaIdTo": 18,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    }
+  ]
 }
