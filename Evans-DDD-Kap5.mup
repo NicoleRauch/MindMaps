@@ -5,7 +5,12 @@
   "ideas": {
     "1": {
       "title": "Assoziationen",
-      "id": 2
+      "id": 2,
+      "attr": {
+        "style": {
+          "background": "#ff6600"
+        }
+      }
     },
     "-1": {
       "title": "Objekte",
@@ -77,15 +82,30 @@
                 }
               }
             }
+          },
+          "attr": {
+            "style": {
+              "background": "#ff6600"
+            }
           }
         },
         "2": {
           "title": "Value Object",
-          "id": 5
+          "id": 5,
+          "attr": {
+            "style": {
+              "background": "#ff6600"
+            }
+          }
         },
         "3": {
           "title": "Service",
-          "id": 6
+          "id": 6,
+          "attr": {
+            "style": {
+              "background": "#ff6600"
+            }
+          }
         }
       }
     }
