@@ -20,12 +20,24 @@
               "id": 7,
               "ideas": {
                 "1": {
-                  "title": "ist dies für das Modell relevant?",
+                  "title": "muss für das Modell relevant sein",
                   "id": 12
                 },
                 "2": {
                   "title": "ist unabhängig von Attributen",
                   "id": 13
+                },
+                "3": {
+                  "title": "muss nachvollziehbar sein",
+                  "id": 14
+                },
+                "4": {
+                  "title": "ist oft auch außerhalb eines bestimmten Computersystems von Bedeutung",
+                  "id": 15
+                },
+                "5": {
+                  "title": "hat nichts mit Objekt-Identität zu tun",
+                  "id": 16
                 }
               }
             },
@@ -44,6 +56,20 @@
                 "3": {
                   "title": "kann unterschiedliche Formen annehmen",
                   "id": 11
+                }
+              }
+            },
+            "3": {
+              "title": "Beispiele",
+              "id": 17,
+              "ideas": {
+                "1": {
+                  "title": "Zwei gleiche Geldtransaktionen",
+                  "id": 18
+                },
+                "2": {
+                  "title": "Scheckeinbuchung + Kontobewegung",
+                  "id": 19
                 }
               }
             }
