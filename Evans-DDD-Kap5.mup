@@ -358,6 +358,30 @@
                   "id": 83
                 }
               }
+            },
+            "2": {
+              "title": "Zuordnung",
+              "id": 84,
+              "ideas": {
+                "1": {
+                  "title": "Domain Service",
+                  "id": 85
+                },
+                "2": {
+                  "title": "Application Service",
+                  "id": 86
+                },
+                "3": {
+                  "title": "Technischer Service",
+                  "id": 87,
+                  "ideas": {
+                    "1": {
+                      "title": "keine Kenntnis über die Domäne",
+                      "id": 88
+                    }
+                  }
+                }
+              }
             }
           }
         },
@@ -415,6 +439,77 @@
               }
             }
           }
+        },
+        "5": {
+          "title": "Granularität",
+          "id": 89,
+          "ideas": {
+            "1": {
+              "title": "zu feingranulare Domänenobjekte führen zu Wissenstransfer ins Application Layer",
+              "id": 90
+            }
+          }
+        },
+        "6": {
+          "title": "Module (Packages)",
+          "id": 91,
+          "ideas": {
+            "2": {
+              "title": "lose Kopplung zwischen Modulen",
+              "id": 93,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            },
+            "3": {
+              "title": "hohe Kohäsion innerhalb eines Moduls",
+              "id": 94
+            },
+            "4": {
+              "title": "müssen sich zusammen mit dem System entwickeln",
+              "id": 95,
+              "ideas": {
+                "1": {
+                  "title": "müssen auch refactored werden",
+                  "id": 96
+                }
+              }
+            },
+            "5": {
+              "title": "technische Modularisierung führt zu Fragmentierung",
+              "id": 97,
+              "ideas": {
+                "1": {
+                  "title": "Überblick über Domänenkonzepte ist schwer zu bekommen",
+                  "id": 98
+                },
+                "2": {
+                  "title": "Es bleibt nicht mehr viel geistiger Freiraum, um über Modelle nachzudenken",
+                  "id": 99
+                },
+                "3": {
+                  "title": "führt oft zu blutleeren Modellen",
+                  "id": 100
+                },
+                "4": {
+                  "title": "Modell ist im Code oft nicht mehr zu erkennen",
+                  "id": 101
+                }
+              }
+            },
+            "6": {
+              "title": "aller Code für eine Einheit in einem Modul",
+              "id": 102,
+              "ideas": {
+                "1": {
+                  "title": "wenn nicht sogar in einem Objekt",
+                  "id": 103
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -439,6 +534,30 @@
             "1": {
               "title": "verhindert sonst Optimierung und Wahl geeigneter Implementierung",
               "id": 75
+            }
+          }
+        }
+      }
+    },
+    "12": {
+      "title": "Modellierungsparadigmen",
+      "id": 104,
+      "ideas": {
+        "1": {
+          "title": "darüber sollte man sich Gedanken machen",
+          "id": 105
+        },
+        "2": {
+          "title": "man kann zwei Paradigmen mischen",
+          "id": 106,
+          "ideas": {
+            "1": {
+              "title": "aber nur, wenn man einen guten Grund hat",
+              "id": 107
+            },
+            "2": {
+              "title": "Ausnahme: OO und Relational",
+              "id": 108
             }
           }
         }
