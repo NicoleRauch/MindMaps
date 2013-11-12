@@ -51,10 +51,6 @@
         "2": {
           "title": "Ein Design hat viele Implementierungen",
           "id": 25
-        },
-        "1.5": {
-          "title": "Unnötige Einschränkungen vermeiden",
-          "id": 29
         }
       }
     },
@@ -260,7 +256,13 @@
             },
             "6": {
               "title": "oft immutable",
-              "id": 39
+              "id": 39,
+              "ideas": {
+                "1": {
+                  "title": "wenn nicht, darf es kein Sharing geben",
+                  "id": 73
+                }
+              }
             },
             "7": {
               "title": "üblicherweise gibt es davon viele",
@@ -300,17 +302,60 @@
               "title": "Aktion oder Operation",
               "id": 44,
               "ideas": {
-                "1": {
-                  "title": "hat keinen State",
-                  "id": 45
+                "5": {
+                  "title": "wird als Interface angeboten",
+                  "id": 77,
+                  "ideas": {
+                    "2": {
+                      "title": "ist nur dadurch definiert, was es für andere Elemente des Domänenmodells tun kann",
+                      "id": 79,
+                      "attr": {
+                        "style": {
+                          "background": "#E0E0E0"
+                        }
+                      }
+                    }
+                  }
                 },
-                "2": {
-                  "title": "gehört nicht zu einem Objekt",
-                  "id": 63
+                "0.5": {
+                  "title": "bezieht sich auf ein Domänenkonzept, das nicht zu einer Entität oder einem Value Object gehört",
+                  "id": 82,
+                  "ideas": {
+                    "3": {
+                      "title": "ist kein Ding",
+                      "id": 64,
+                      "ideas": {},
+                      "attr": {
+                        "style": {
+                          "background": "#E0E0E0"
+                        }
+                      }
+                    },
+                    "4": {
+                      "title": "Bezeichnung ist ein Verb",
+                      "id": 80,
+                      "attr": {
+                        "style": {
+                          "background": "#E0E0E0"
+                        }
+                      },
+                      "ideas": {
+                        "1": {
+                          "title": "oft als \"Manager\"-Klasse getarnt",
+                          "id": 76,
+                          "attr": {
+                            "style": {
+                              "background": "#E0E0E0"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
                 },
-                "3": {
-                  "title": "kein Ding",
-                  "id": 64
+                "6": {
+                  "title": "ist stateless",
+                  "id": 83
                 }
               }
             }
@@ -368,6 +413,32 @@
                   }
                 }
               }
+            }
+          }
+        }
+      }
+    },
+    "2": {
+      "title": "Grundsätzliches",
+      "id": 74,
+      "attr": {
+        "style": {
+          "background": "#3366ff"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Unnötige Einschränkungen vermeiden",
+          "id": 29,
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "verhindert sonst Optimierung und Wahl geeigneter Implementierung",
+              "id": 75
             }
           }
         }
