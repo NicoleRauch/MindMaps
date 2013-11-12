@@ -513,32 +513,6 @@
         }
       }
     },
-    "2": {
-      "title": "Grundsätzliches",
-      "id": 74,
-      "attr": {
-        "style": {
-          "background": "#3366ff"
-        }
-      },
-      "ideas": {
-        "1": {
-          "title": "Unnötige Einschränkungen vermeiden",
-          "id": 29,
-          "attr": {
-            "style": {
-              "background": "#E0E0E0"
-            }
-          },
-          "ideas": {
-            "1": {
-              "title": "verhindert sonst Optimierung und Wahl geeigneter Implementierung",
-              "id": 75
-            }
-          }
-        }
-      }
-    },
     "12": {
       "title": "Modellierungsparadigmen",
       "id": 104,
@@ -558,6 +532,27 @@
             "2": {
               "title": "Ausnahme: OO und Relational",
               "id": 108
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "title": "Grundsätzliches",
+      "id": 109,
+      "ideas": {
+        "1": {
+          "title": "Unnötige Einschränkungen vermeiden",
+          "id": 29,
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "verhindert sonst Optimierung und Wahl geeigneter Implementierung",
+              "id": 75
             }
           }
         }
