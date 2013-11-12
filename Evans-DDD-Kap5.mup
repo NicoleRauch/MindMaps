@@ -51,6 +51,10 @@
         "2": {
           "title": "Ein Design hat viele Implementierungen",
           "id": 25
+        },
+        "1.5": {
+          "title": "Unnötige Einschränkungen vermeiden",
+          "id": 29
         }
       }
     },
@@ -68,7 +72,13 @@
               "ideas": {
                 "1": {
                   "title": "muss für das Modell relevant sein",
-                  "id": 12
+                  "id": 12,
+                  "ideas": {
+                    "1": {
+                      "title": "als Hauptmerkmal modellieren",
+                      "id": 46
+                    }
+                  }
                 },
                 "3": {
                   "title": "muss nachvollziehbar sein",
@@ -123,6 +133,40 @@
                   "id": 19
                 }
               }
+            },
+            "4": {
+              "title": "Implementierung",
+              "id": 47,
+              "ideas": {
+                "1": {
+                  "title": "einfache Klassendefinition",
+                  "id": 48
+                },
+                "2": {
+                  "title": "Unterscheidbarkeit unabhängig von Gestalt oder Historie",
+                  "id": 49,
+                  "ideas": {
+                    "1": {
+                      "title": "eindeutigen Identifikator festlegen",
+                      "id": 50
+                    }
+                  }
+                },
+                "3": {
+                  "title": "zum Auffinden wichtige Attribute gehören dazu",
+                  "id": 52,
+                  "ideas": {
+                    "1": {
+                      "title": "Beispiel: Name, Adresse",
+                      "id": 53
+                    }
+                  }
+                },
+                "4": {
+                  "title": "Nicht zum Kernobjekt gehörige Attribute und Verhalten möglichst auslagern",
+                  "id": 54
+                }
+              }
             }
           },
           "attr": {
@@ -138,6 +182,65 @@
             "style": {
               "background": "#ff6600"
             }
+          },
+          "ideas": {
+            "1": {
+              "title": "Attribut, das den Zustand oder eine Eigenschaft von etwas anderem beschreibt",
+              "id": 30
+            },
+            "2": {
+              "title": "ohne Identität",
+              "id": 31
+            },
+            "3": {
+              "title": "Beispiele",
+              "id": 32,
+              "ideas": {
+                "1": {
+                  "title": "Strings",
+                  "id": 33
+                },
+                "2": {
+                  "title": "Zahlen",
+                  "id": 34
+                },
+                "3": {
+                  "title": "komplexe Objekte",
+                  "id": 35
+                }
+              }
+            },
+            "5": {
+              "title": "konzeptuelles Ganzes",
+              "id": 38
+            },
+            "6": {
+              "title": "oft immutable",
+              "id": 39
+            },
+            "7": {
+              "title": "üblicherweise gibt es davon viele",
+              "id": 43
+            },
+            "8": {
+              "title": "Assoziationen",
+              "id": 55,
+              "ideas": {
+                "1": {
+                  "title": "kann Entitäten referenzieren",
+                  "id": 37,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "bidirektionale A. zwischen Value Objects sind sinnlos",
+                  "id": 56
+                }
+              }
+            }
           }
         },
         "3": {
@@ -146,6 +249,73 @@
           "attr": {
             "style": {
               "background": "#ff6600"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Aktion oder Operation",
+              "id": 44,
+              "ideas": {
+                "1": {
+                  "title": "hat keinen State",
+                  "id": 45
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "title": "Abgrenzung zueinander",
+          "id": 40,
+          "attr": {
+            "style": {
+              "background": "#3366ff"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Entität - Value Object",
+              "id": 41,
+              "ideas": {
+                "1": {
+                  "title": "ist kontextabhängig",
+                  "id": 42
+                },
+                "2": {
+                  "title": "Beispiel: Sitzplätze im Stadion",
+                  "id": 51
+                }
+              }
+            },
+            "2": {
+              "title": "Entität - Service",
+              "id": 57,
+              "ideas": {
+                "1": {
+                  "title": "Verhalten nicht ins richtige Objekt",
+                  "id": 58,
+                  "ideas": {
+                    "1": {
+                      "title": "prozedurale Programmierung",
+                      "id": 59
+                    }
+                  }
+                },
+                "2": {
+                  "title": "zu viel Verhalten in einem Objekt",
+                  "id": 60,
+                  "ideas": {
+                    "1": {
+                      "title": "konzeptionelle Klarheit geht verloren",
+                      "id": 61
+                    },
+                    "2": {
+                      "title": "schafft Abhängigkeiten an der falschen Stelle",
+                      "id": 62
+                    }
+                  }
+                }
+              }
             }
           }
         }
