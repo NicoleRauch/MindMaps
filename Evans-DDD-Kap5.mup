@@ -76,13 +76,20 @@
                   "ideas": {
                     "1": {
                       "title": "als Hauptmerkmal modellieren",
-                      "id": 46
+                      "id": 46,
+                      "ideas": {}
                     }
                   }
                 },
                 "3": {
-                  "title": "muss nachvollziehbar sein",
-                  "id": 14
+                  "title": "ist nicht automatisch gegeben",
+                  "id": 14,
+                  "ideas": {
+                    "1": {
+                      "title": "wird modelliert, weil es hilfreich ist",
+                      "id": 67
+                    }
+                  }
                 },
                 "4": {
                   "title": "ist oft auch außerhalb eines bestimmten Computersystems von Bedeutung",
@@ -90,15 +97,26 @@
                 },
                 "5": {
                   "title": "hat nichts mit Objekt-Identität zu tun",
-                  "id": 16
+                  "id": 16,
+                  "ideas": {
+                    "1": {
+                      "title": "zu subtil und zu bedeutungsvoll, um es einem Sprachautomatismus zu überlassen",
+                      "id": 65
+                    }
+                  }
                 },
                 "6": {
                   "title": "über unterschiedliche Repräsentationen hinweg",
                   "id": 20
                 },
-                "16": {
+                "7": {
                   "title": "ist unabhängig von Attributen",
-                  "id": 13
+                  "id": 13,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
                 }
               }
             },
@@ -140,7 +158,13 @@
               "ideas": {
                 "1": {
                   "title": "einfache Klassendefinition",
-                  "id": 48
+                  "id": 48,
+                  "ideas": {
+                    "1": {
+                      "title": "Fokus auf Lebenszyklus und Identität",
+                      "id": 66
+                    }
+                  }
                 },
                 "2": {
                   "title": "Unterscheidbarkeit unabhängig von Gestalt oder Historie",
@@ -185,12 +209,32 @@
           },
           "ideas": {
             "1": {
-              "title": "Attribut, das den Zustand oder eine Eigenschaft von etwas anderem beschreibt",
-              "id": 30
+              "title": "Attribut, das den Zustand oder eine Eigenschaft von einem Ding beschreibt",
+              "id": 30,
+              "ideas": {
+                "1": {
+                  "title": "\"was\" ist es",
+                  "id": 70
+                }
+              }
             },
             "2": {
               "title": "ohne Identität",
-              "id": 31
+              "id": 31,
+              "ideas": {
+                "1": {
+                  "title": "um das Modell einfach und sauber zu halten",
+                  "id": 68
+                },
+                "2": {
+                  "title": "um optimieren zu können",
+                  "id": 69
+                },
+                "3": {
+                  "title": "nicht: \"wer\" ist es",
+                  "id": 72
+                }
+              }
             },
             "3": {
               "title": "Beispiele",
@@ -211,7 +255,7 @@
               }
             },
             "5": {
-              "title": "konzeptuelles Ganzes",
+              "title": "bildet eine Einheit (\"conceptual whole\")",
               "id": 38
             },
             "6": {
@@ -259,13 +303,21 @@
                 "1": {
                   "title": "hat keinen State",
                   "id": 45
+                },
+                "2": {
+                  "title": "gehört nicht zu einem Objekt",
+                  "id": 63
+                },
+                "3": {
+                  "title": "kein Ding",
+                  "id": 64
                 }
               }
             }
           }
         },
         "4": {
-          "title": "Abgrenzung zueinander",
+          "title": "Abgrenzung",
           "id": 40,
           "attr": {
             "style": {
