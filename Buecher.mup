@@ -24,6 +24,24 @@
         "3": {
           "title": "Agile Adoption Patterns - Richard Durnall, 2009",
           "id": 15
+        },
+        "4": {
+          "title": "Beyond Budgeting",
+          "id": 19
+        },
+        "5": {
+          "title": "McCarthy: The Core Protocols",
+          "id": 23,
+          "ideas": {
+            "1": {
+              "title": "Check In",
+              "id": 24
+            },
+            "2": {
+              "title": "Perfection Game",
+              "id": 25
+            }
+          }
         }
       }
     },
@@ -50,21 +68,6 @@
         }
       }
     },
-    "3": {
-      "title": "Empfehlungsgeber",
-      "id": 16,
-      "attr": {
-        "style": {
-          "background": "#ffcc00"
-        }
-      },
-      "ideas": {
-        "1": {
-          "title": "Dan North (XP-Days 2013)",
-          "id": 17
-        }
-      }
-    },
     "-1": {
       "title": "Prozess",
       "id": 3,
@@ -88,12 +91,109 @@
           "id": 12
         }
       }
+    },
+    "-3": {
+      "title": "Softwareentwicklung ",
+      "id": 20,
+      "ideas": {
+        "1": {
+          "title": "The Leprechauns of Software Engineering",
+          "id": 21
+        }
+      }
+    },
+    "-13": {
+      "title": "Empfehlungsgeber",
+      "id": 16,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Dan North (XP-Days 2013)",
+          "id": 17
+        },
+        "2": {
+          "title": "Pierluigi Pugliese (XP-Days 2013)",
+          "id": 18
+        },
+        "3": {
+          "title": "Johannes Link (XP-Days 2013)",
+          "id": 22
+        },
+        "4": {
+          "title": "Marc Bless",
+          "id": 26
+        }
+      }
     }
   },
   "links": [
     {
       "ideaIdFrom": 17,
       "ideaIdTo": 15,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 18,
+      "ideaIdTo": 9,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 18,
+      "ideaIdTo": 8,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 18,
+      "ideaIdTo": 7,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 19,
+      "ideaIdTo": 17,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 22,
+      "ideaIdTo": 21,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 26,
+      "ideaIdTo": 23,
       "attr": {
         "style": {
           "color": "#FF0000",
