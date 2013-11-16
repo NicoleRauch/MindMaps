@@ -1,5 +1,105 @@
 {
   "title": "Bücher",
   "id": 1,
-  "formatVersion": 2
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Change",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "Lean Coffee zum Culture Hacking",
+          "id": 5,
+          "ideas": {
+            "1": {
+              "title": "Jason Little: Lean Change",
+              "id": 6
+            }
+          }
+        },
+        "2": {
+          "title": "Appreciative Team Building",
+          "id": 13
+        },
+        "3": {
+          "title": "Agile Adoption Patterns - Richard Durnall, 2009",
+          "id": 15
+        }
+      }
+    },
+    "2": {
+      "title": "Solution Focus",
+      "id": 4,
+      "ideas": {
+        "1": {
+          "title": "..., Paul Jackson: The Solution Focus",
+          "id": 7,
+          "attr": {
+            "style": {
+              "background": "#ff99cc"
+            }
+          }
+        },
+        "2": {
+          "title": "One small step",
+          "id": 8
+        },
+        "3": {
+          "title": "More than Miracles",
+          "id": 9
+        }
+      }
+    },
+    "3": {
+      "title": "Empfehlungsgeber",
+      "id": 16,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Dan North (XP-Days 2013)",
+          "id": 17
+        }
+      }
+    },
+    "-1": {
+      "title": "Prozess",
+      "id": 3,
+      "ideas": {
+        "1": {
+          "title": "Don Reinertsen: ... Flow",
+          "id": 14
+        }
+      }
+    },
+    "-2": {
+      "title": "Kreativität",
+      "id": 10,
+      "ideas": {
+        "1": {
+          "title": "Where good ideas come from: Steven Johnson",
+          "id": 11
+        },
+        "2": {
+          "title": "Brain at Work - David Rock",
+          "id": 12
+        }
+      }
+    }
+  },
+  "links": [
+    {
+      "ideaIdFrom": 17,
+      "ideaIdTo": 15,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    }
+  ]
 }
