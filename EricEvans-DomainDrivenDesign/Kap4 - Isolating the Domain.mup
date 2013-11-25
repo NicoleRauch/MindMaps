@@ -1,0 +1,181 @@
+{
+  "title": "Isolating the Domain",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "0.5": {
+      "title": "2. Beispiel \"Partitioning Online Banking Functionality into Layers\"",
+      "id": 7
+    },
+    "0.25": {
+      "title": "1. Einleitung",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "\"Kern\" der Software meist nur kleiner Teil der Anwendung mit umso größerer Bedeutung",
+          "id": 3
+        },
+        "2": {
+          "title": "Ziel: Trennen der Domänenobjekte vom Rest des Systems",
+          "id": 4,
+          "ideas": {
+            "1": {
+              "title": "Keine Vermischung von Konzepten der Domäne mit Konzepten außerhalb der Domäne",
+              "id": 5
+            }
+          }
+        },
+        "3": {
+          "title": "Beobachtung: Businesslogik oftmals vermischt mit \"support code\"",
+          "id": 13,
+          "ideas": {
+            "1": {
+              "title": "Grund:  Einfachster Weg, um schnell zu Ergebnissen zu kommen.",
+              "id": 14
+            },
+            "2": {
+              "title": "Langfristig allerdings problematisch",
+              "id": 15,
+              "ideas": {
+                "1": {
+                  "title": "Verständlichkeit des Domänen-relevanten Codes wird erschwert",
+                  "id": 17
+                },
+                "2": {
+                  "title": "(Triviale) Änderungen, bspw. an der UI, führen zu Anpassungen der Businesslogik",
+                  "id": 19
+                },
+                "3": {
+                  "title": "Änderungen an der Businesslogik erfordern Änderungen an UI,..",
+                  "id": 20
+                },
+                "4": {
+                  "title": "Automatisiertes Testen wird erschwert",
+                  "id": 21
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "title": "Grundidee der Trennung: Elemente einer Schicht sind nur von Elementen der gleichen oder untergeordneter Schichten abhängig",
+          "id": 22,
+          "ideas": {}
+        },
+        "5": {
+          "title": "Einführung 4 \"Standardlayer\" ",
+          "id": 24,
+          "ideas": {
+            "1": {
+              "title": "User Interface",
+              "id": 25
+            },
+            "2": {
+              "title": "Application Layer",
+              "id": 26
+            },
+            "3": {
+              "title": "Domain Layer",
+              "id": 27
+            },
+            "4": {
+              "title": "Infrastructure Layer",
+              "id": 28
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    },
+    "-10": {
+      "title": "3. Relating the Layers",
+      "id": 8,
+      "ideas": {
+        "1": {
+          "title": "Ziel: Loose gekoppelte Schichten, in der die Kommunikation von oben nach unten läuft",
+          "id": 35
+        },
+        "2": {
+          "title": "Notwendige Kommunikation \"nach oben\" über Callbacks oder Observer",
+          "id": 36
+        },
+        "3": {
+          "title": "Vorstellung Model-View-Controller",
+          "id": 37
+        },
+        "4": {
+          "title": "Technische Ressourcen als SERVICE",
+          "id": 39
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    },
+    "-20": {
+      "title": "4. Architectural Frameworks",
+      "id": 10,
+      "ideas": {
+        "1": {
+          "title": "Können Einfluss auf die Implementierung der anderen Schichten haben",
+          "id": 40,
+          "ideas": {
+            "1": {
+              "title": "Bsp.: Basisklasse in Framework ist Grundlage für alle  anderen Schichten",
+              "id": 41
+            }
+          }
+        },
+        "2": {
+          "title": "Daher gezielte Auswahl einzusetzender Frameworks und Technologien",
+          "id": 42,
+          "ideas": {}
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    },
+    "-30": {
+      "title": "5. THE SMART UI “ANTI-PATTERN”",
+      "id": 12,
+      "ideas": {
+        "1": {
+          "title": "Smart UI: Anwendung ohne Schichtentrennung",
+          "id": 45
+        },
+        "2": {
+          "title": "Bei kleinen, schnellen und einfachen Projekten sinnvoll",
+          "id": 46
+        },
+        "3": {
+          "title": "Model-Driven-Design setzt Know-how voraus",
+          "id": 47
+        },
+        "4": {
+          "title": "Model-Driven-Design vor allem für umfangreiche und komplexe Projekte geeignet",
+          "id": 48
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    }
+  },
+  "attr": {
+    "style": {
+      "background": "#22AAE0"
+    }
+  },
+  "links": []
+}
