@@ -12,15 +12,15 @@
       "id": 2,
       "ideas": {
         "1": {
-          "title": "\"Kern\" der Software meist nur kleiner Teil der Anwendung mit umso grˆﬂerer Bedeutung",
+          "title": "\"Kern\" der Software meist nur kleiner Teil der Anwendung mit umso gr√∂√üerer Bedeutung",
           "id": 3
         },
         "2": {
-          "title": "Ziel: Trennen der Dom‰nenobjekte vom Rest des Systems",
+          "title": "Ziel: Trennen der Dom√§nenobjekte vom Rest des Systems",
           "id": 4,
           "ideas": {
             "1": {
-              "title": "Keine Vermischung von Konzepten der Dom‰ne mit Konzepten auﬂerhalb der Dom‰ne",
+              "title": "Keine Vermischung von Konzepten der Dom√§ne mit Konzepten au√üerhalb der Dom√§ne",
               "id": 5
             }
           }
@@ -38,11 +38,11 @@
               "id": 15,
               "ideas": {
                 "1": {
-                  "title": "Verst‰ndlichkeit des Dom‰nen-relevanten Codes wird erschwert",
+                  "title": "Verst√§ndlichkeit des Dom√§nen-relevanten Codes wird erschwert",
                   "id": 17
                 },
                 "2": {
-                  "title": "(Triviale) √Ñnderungen, bspw. an der UI, f¸hren zu Anpassungen der Businesslogik",
+                  "title": "(Triviale) √Ñnderungen, bspw. an der UI, f√ºhren zu Anpassungen der Businesslogik",
                   "id": 19
                 },
                 "3": {
@@ -58,12 +58,12 @@
           }
         },
         "4": {
-          "title": "Grundidee der Trennung: Elemente einer Schicht sind nur von Elementen der gleichen oder untergeordneter Schichten abh‰ngig",
+          "title": "Grundidee der Trennung: Elemente einer Schicht sind nur von Elementen der gleichen oder untergeordneter Schichten abh√§ngig",
           "id": 22,
           "ideas": {}
         },
         "5": {
-          "title": "Einf¸hrung 4 \"Standardlayer\" ",
+          "title": "Einf√ºhrung 4 \"Standardlayer\" ",
           "id": 24,
           "ideas": {
             "1": {
@@ -96,11 +96,11 @@
       "id": 8,
       "ideas": {
         "1": {
-          "title": "Ziel: Loose gekoppelte Schichten, in der die Kommunikation von oben nach unten l‰uft",
+          "title": "Ziel: Lose gekoppelte Schichten, in der die Kommunikation von oben nach unten l√§uft",
           "id": 35
         },
         "2": {
-          "title": "Notwendige Kommunikation \"nach oben\" ¸ber Callbacks oder Observer",
+          "title": "Notwendige Kommunikation \"nach oben\" √ºber Callbacks oder Observer",
           "id": 36
         },
         "3": {
@@ -123,11 +123,11 @@
       "id": 10,
       "ideas": {
         "1": {
-          "title": "Kˆnnen Einfluss auf die Implementierung der anderen Schichten haben",
+          "title": "K√∂nnen Einfluss auf die Implementierung der anderen Schichten haben",
           "id": 40,
           "ideas": {
             "1": {
-              "title": "Bsp.: Basisklasse in Framework ist Grundlage f¸r alle  anderen Schichten",
+              "title": "Bsp.: Basisklasse in Framework ist Grundlage f√ºr alle  anderen Schichten",
               "id": 41
             }
           }
@@ -161,7 +161,7 @@
           "id": 47
         },
         "4": {
-          "title": "Model-Driven-Design vor allem f¸r umfangreiche und komplexe Projekte geeignet",
+          "title": "Model-Driven-Design vor allem f√ºr umfangreiche und komplexe Projekte geeignet",
           "id": 48
         }
       },
