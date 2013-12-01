@@ -10,6 +10,36 @@
         "style": {
           "background": "#33cccc"
         }
+      },
+      "ideas": {
+        "1": {
+          "title": "Beim Refactoring",
+          "id": 32,
+          "ideas": {
+            "1": {
+              "title": "Was man daraus gewinnt, ist nicht linear",
+              "id": 33
+            },
+            "2": {
+              "title": "Kontinuierliches Refactoring erlaubt einen klareren Blick",
+              "id": 34
+            },
+            "3": {
+              "title": "Diese Klarheit besitzt das Potential für radikale neue Erkenntnisse",
+              "id": 35,
+              "ideas": {
+                "1": {
+                  "title": "Ereignis! (keine Technik)",
+                  "id": 36
+                },
+                "2": {
+                  "title": "Erkennen, was vor sich geht, und entscheiden, wie man damit umgeht",
+                  "id": 37
+                }
+              }
+            }
+          }
+        }
       }
     },
     "-1": {
