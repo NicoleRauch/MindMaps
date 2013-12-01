@@ -1,10 +1,10 @@
 {
-  "title": "Refactoring towards deeper insight",
+  "title": "Refactoring toward deeper insight",
   "id": 1,
   "formatVersion": 2,
   "ideas": {
     "1": {
-      "title": "Breakthrough",
+      "title": "Kapitel 8: Breakthrough",
       "id": 2,
       "attr": {
         "style": {
@@ -103,12 +103,73 @@
                     "3": {
                       "title": "l‰sst oberfl‰chliche Aspekte der Domain auﬂen vor",
                       "id": 23
+                    },
+                    "4": {
+                      "title": "hat abstrakte und konkrete Teile",
+                      "id": 24
                     }
                   }
                 }
               }
             }
           }
+        }
+      }
+    },
+    "2": {
+      "title": "Kapitel 10: Supple Design",
+      "id": 25,
+      "attr": {
+        "style": {
+          "background": "#33cccc"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Wie ein Modell einfach zu benutzen und zu ‰ndern wird. Wie ein tiefes Modell entsteht.",
+          "id": 26
+        }
+      }
+    },
+    "1.5": {
+      "title": "Kapitel 9: Making Implicit Concepts Explicit",
+      "id": 27,
+      "attr": {
+        "style": {
+          "background": "#33cccc"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Wie man die zentralen, relevanten Konzepte der Domain findet und in das Design hineinbringt",
+          "id": 28
+        }
+      }
+    },
+    "12": {
+      "title": "Kapitel 11: Applying Analysis Patterns",
+      "id": 29,
+      "attr": {
+        "style": {
+          "background": "#33cccc"
+        }
+      }
+    },
+    "22": {
+      "title": "Kapitel 12: Relating Design Patterns to the Model",
+      "id": 30,
+      "attr": {
+        "style": {
+          "background": "#33cccc"
+        }
+      }
+    },
+    "32": {
+      "title": "Kapitel 13: Refactoring toward deeper insight",
+      "id": 31,
+      "attr": {
+        "style": {
+          "background": "#33cccc"
         }
       }
     }
