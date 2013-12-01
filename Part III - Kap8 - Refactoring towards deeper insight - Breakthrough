@@ -1,5 +1,21 @@
 {
   "title": "Refactoring towards deeper insight",
   "id": 1,
-  "formatVersion": 2
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Breakthrough",
+      "id": 2,
+      "attr": {
+        "style": {
+          "background": "#33cccc"
+        }
+      }
+    }
+  },
+  "attr": {
+    "style": {
+      "background": "#33cccc"
+    }
+  }
 }
