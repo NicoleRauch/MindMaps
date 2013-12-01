@@ -11,6 +11,106 @@
           "background": "#33cccc"
         }
       }
+    },
+    "-1": {
+      "title": "Wie kommen wir zu einem prägnanten Modell?",
+      "id": 3,
+      "ideas": {
+        "1": {
+          "title": "Refactoring",
+          "id": 6,
+          "ideas": {
+            "1": {
+              "title": "Design wird flexibler oder verständlicher",
+              "id": 7
+            },
+            "2": {
+              "title": "Kein Big Design Up-Front erforderlich, kein langes Vorausschauen",
+              "id": 8
+            },
+            "0.5": {
+              "title": "Kontinuierliche Abfolge kleiner, isolierter Designänderungen",
+              "id": 9
+            },
+            "3": {
+              "title": "Literatur zu Refactoring",
+              "id": 10,
+              "ideas": {
+                "1": {
+                  "title": "Fowler: Refactoring",
+                  "id": 11,
+                  "ideas": {
+                    "1": {
+                      "title": "Erschöpfende Sammlung von Mikro-Refactorings",
+                      "id": 12
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Kerievsky: Refactoring to Patterns",
+                  "id": 13,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "Immer noch technisch orientiert",
+                      "id": 14
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "title": "Auf einem höheren Level: Refactoring to a deeper model",
+              "id": 15,
+              "ideas": {
+                "1": {
+                  "title": "nicht nur durch den Zustand des Codes getrieben",
+                  "id": 16
+                },
+                "2": {
+                  "title": "Veränderungen hin zu einem Modell, das mehr Einsichten vermittelt",
+                  "id": 17
+                },
+                "3": {
+                  "title": "Ziel: Verstehen, warum der Code etwas tut, und dieses Verständnis in Beziehung setzen zu Diskussionen mit Domain-Experten",
+                  "id": 18
+                },
+                "4": {
+                  "title": "Initiale Modelle sind oft naiv und oberflächlich",
+                  "id": 19
+                },
+                "5": {
+                  "title": "Tiefes Modell",
+                  "id": 20,
+                  "ideas": {
+                    "1": {
+                      "title": "drückt die Hauptbeweggründe der Domain-Experten aus",
+                      "id": 21,
+                      "attr": {
+                        "style": {
+                          "background": "#E0E0E0"
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "enthält das relevanteste Wissen der Domain-Experten",
+                      "id": 22
+                    },
+                    "3": {
+                      "title": "lässt oberflächliche Aspekte der Domain außen vor",
+                      "id": 23
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
     }
   },
   "attr": {
