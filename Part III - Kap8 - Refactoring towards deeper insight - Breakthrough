@@ -34,7 +34,71 @@
                 },
                 "2": {
                   "title": "Erkennen, was vor sich geht, und entscheiden, wie man damit umgeht",
-                  "id": 37
+                  "id": 37,
+                  "ideas": {
+                    "3": {
+                      "title": "Symptome",
+                      "id": 40,
+                      "ideas": {
+                        "1": {
+                          "title": "Unerwartete Anforderungen verkomplizieren das Design",
+                          "id": 38,
+                          "attr": {
+                            "style": {
+                              "background": "#E0E0E0"
+                            }
+                          }
+                        },
+                        "2": {
+                          "title": "Zu enge Verbindungen zwischen Teilen des Modells",
+                          "id": 42
+                        },
+                        "3": {
+                          "title": "Konzepte entspringen nicht der Domänen-Sprache",
+                          "id": 44
+                        },
+                        "4": {
+                          "title": "Algorithmische Widerstände (z. B. Rundungsfehler)",
+                          "id": 45
+                        }
+                      }
+                    },
+                    "4": {
+                      "title": "Lösungsmuster",
+                      "id": 41,
+                      "ideas": {
+                        "1": {
+                          "title": "\"Verschiedene\" Fälle sind lediglich Spezialfälle eines fundamentalen Konzepts",
+                          "id": 39,
+                          "attr": {
+                            "style": {
+                              "background": "#E0E0E0"
+                            }
+                          }
+                        },
+                        "2": {
+                          "title": "Entfernen unangemessener Constraints",
+                          "id": 43
+                        }
+                      }
+                    },
+                    "5": {
+                      "title": "Probleme",
+                      "id": 46,
+                      "ideas": {
+                        "1": {
+                          "title": "Große Designänderungen erfordern oft große Codeänderungen",
+                          "id": 48,
+                          "ideas": {
+                            "1": {
+                              "title": "Kleine Schritte sind nicht möglich",
+                              "id": 49
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
                 }
               }
             }
