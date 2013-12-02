@@ -1,5 +1,5 @@
 {
-  "title": "Refactoring toward deeper insight",
+  "title": "Part III: Refactoring toward deeper insight",
   "id": 1,
   "formatVersion": 2,
   "ideas": {
@@ -93,8 +93,58 @@
                             "1": {
                               "title": "Kleine Schritte sind nicht möglich",
                               "id": 49
+                            },
+                            "2": {
+                              "title": "Größere Chancen, größere Risiken als bei \"normalen\" Refactorings",
+                              "id": 50
+                            },
+                            "3": {
+                              "title": "Kann zu ungünstigen Zeitpunkten erforderlich sein",
+                              "id": 51
                             }
                           }
+                        }
+                      }
+                    },
+                    "6": {
+                      "title": "Wie man einen Breakthrough vorbereitet",
+                      "id": 53,
+                      "ideas": {
+                        "1": {
+                          "title": "Nicht erzwingen wollen!",
+                          "id": 55
+                        },
+                        "2": {
+                          "title": "Wichtige Designkonzepte explizit machen",
+                          "id": 56
+                        },
+                        "3": {
+                          "title": "Das Design geschmeidiger machen",
+                          "id": 57
+                        },
+                        "4": {
+                          "title": "Durch kleinere Schritte steigt die Klarheit",
+                          "id": 58,
+                          "ideas": {
+                            "1": {
+                              "title": "wichtige Grundvoraussetzung",
+                              "id": 59
+                            },
+                            "2": {
+                              "title": "nicht zu weit vorausschauen wollen",
+                              "id": 61
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "7": {
+                      "title": "Und danach?",
+                      "id": 62,
+                      "ideas": {
+                        "1": {
+                          "title": "Nach dem Breakthrough ist vor dem Breakthrough :-)",
+                          "id": 63
                         }
                       }
                     }
