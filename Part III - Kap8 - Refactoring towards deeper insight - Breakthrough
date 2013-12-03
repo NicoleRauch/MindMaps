@@ -8,7 +8,7 @@
       "id": 2,
       "attr": {
         "style": {
-          "background": "#33cccc"
+          "background": "#ccffff"
         }
       },
       "ideas": {
@@ -156,6 +156,48 @@
         }
       }
     },
+    "2": {
+      "title": "Kapitel 10: Supple Design",
+      "id": 25,
+      "attr": {
+        "style": {
+          "background": "#ccffff"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Wie ein Modell einfach zu benutzen und zu ändern wird. Wie ein tiefes Modell entsteht.",
+          "id": 26
+        }
+      }
+    },
+    "12": {
+      "title": "Kapitel 11: Applying Analysis Patterns",
+      "id": 29,
+      "attr": {
+        "style": {
+          "background": "#ccffff"
+        }
+      }
+    },
+    "22": {
+      "title": "Kapitel 12: Relating Design Patterns to the Model",
+      "id": 30,
+      "attr": {
+        "style": {
+          "background": "#ccffff"
+        }
+      }
+    },
+    "32": {
+      "title": "Kapitel 13: Refactoring toward deeper insight",
+      "id": 31,
+      "attr": {
+        "style": {
+          "background": "#ccffff"
+        }
+      }
+    },
     "-1": {
       "title": "Wie kommen wir zu einem prägnanten Modell?",
       "id": 3,
@@ -171,10 +213,6 @@
             "2": {
               "title": "Kein Big Design Up-Front erforderlich, kein langes Vorausschauen",
               "id": 8
-            },
-            "0.5": {
-              "title": "Kontinuierliche Abfolge kleiner, isolierter Designänderungen",
-              "id": 9
             },
             "3": {
               "title": "Literatur zu Refactoring",
@@ -255,23 +293,12 @@
                   }
                 }
               }
+            },
+            "0.5": {
+              "title": "Kontinuierliche Abfolge kleiner, isolierter Designänderungen",
+              "id": 9
             }
           }
-        }
-      }
-    },
-    "2": {
-      "title": "Kapitel 10: Supple Design",
-      "id": 25,
-      "attr": {
-        "style": {
-          "background": "#33cccc"
-        }
-      },
-      "ideas": {
-        "1": {
-          "title": "Wie ein Modell einfach zu benutzen und zu ändern wird. Wie ein tiefes Modell entsteht.",
-          "id": 26
         }
       }
     },
@@ -280,7 +307,7 @@
       "id": 27,
       "attr": {
         "style": {
-          "background": "#33cccc"
+          "background": "#ccffff"
         }
       },
       "ideas": {
@@ -289,38 +316,11 @@
           "id": 28
         }
       }
-    },
-    "12": {
-      "title": "Kapitel 11: Applying Analysis Patterns",
-      "id": 29,
-      "attr": {
-        "style": {
-          "background": "#33cccc"
-        }
-      }
-    },
-    "22": {
-      "title": "Kapitel 12: Relating Design Patterns to the Model",
-      "id": 30,
-      "attr": {
-        "style": {
-          "background": "#33cccc"
-        }
-      }
-    },
-    "32": {
-      "title": "Kapitel 13: Refactoring toward deeper insight",
-      "id": 31,
-      "attr": {
-        "style": {
-          "background": "#33cccc"
-        }
-      }
     }
   },
   "attr": {
     "style": {
-      "background": "#33cccc"
+      "background": "#ccffff"
     }
   }
 }
