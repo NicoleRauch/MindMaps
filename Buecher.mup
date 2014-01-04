@@ -36,6 +36,10 @@
                   "background": "#E0E0E0"
                 }
               }
+            },
+            "2": {
+              "title": "Ken Power",
+              "id": 57
             }
           }
         },
@@ -337,6 +341,14 @@
             "2": {
               "title": "Scott Berkun: The Art of Project Management (O'Reilly)",
               "id": 44
+            },
+            "3": {
+              "title": "James Womack: Gemba Walks",
+              "id": 58
+            },
+            "4": {
+              "title": "M. Czikszentmihalyi: Flow: Das Geheimnis des Glücks",
+              "id": 59
             }
           },
           "attr": {
@@ -492,6 +504,36 @@
     {
       "ideaIdFrom": 49,
       "ideaIdTo": 45,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 58,
+      "ideaIdTo": 57,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 57,
+      "ideaIdTo": 14,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 59,
+      "ideaIdTo": 57,
       "attr": {
         "style": {
           "color": "#FF0000",
