@@ -84,6 +84,16 @@
               }
             }
           }
+        },
+        "10": {
+          "title": "Campus 2013",
+          "id": 62,
+          "ideas": {
+            "1": {
+              "title": "Frank Goraus",
+              "id": 63
+            }
+          }
         }
       }
     },
@@ -322,6 +332,16 @@
                   "id": 41
                 }
               }
+            },
+            "5": {
+              "title": "JavaScript",
+              "id": 60,
+              "ideas": {
+                "1": {
+                  "title": "Crockford: JavaScript - The good Parts (O'Reilly)",
+                  "id": 61
+                }
+              }
             }
           },
           "attr": {
@@ -534,6 +554,16 @@
     {
       "ideaIdFrom": 59,
       "ideaIdTo": 57,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 63,
+      "ideaIdTo": 61,
       "attr": {
         "style": {
           "color": "#FF0000",
