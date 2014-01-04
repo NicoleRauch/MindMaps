@@ -3,153 +3,6 @@
   "id": 1,
   "formatVersion": 2,
   "ideas": {
-    "1": {
-      "title": "Change",
-      "id": 2,
-      "ideas": {
-        "1": {
-          "title": "Lean Coffee zum Culture Hacking",
-          "id": 5,
-          "ideas": {
-            "1": {
-              "title": "Jason Little: Lean Change",
-              "id": 6
-            }
-          }
-        },
-        "2": {
-          "title": "Appreciative Team Building",
-          "id": 13
-        },
-        "3": {
-          "title": "Agile Adoption Patterns - Richard Durnall, 2009",
-          "id": 15
-        },
-        "4": {
-          "title": "Beyond Budgeting",
-          "id": 19
-        },
-        "5": {
-          "title": "McCarthy: The Core Protocols",
-          "id": 23,
-          "ideas": {
-            "1": {
-              "title": "Check In",
-              "id": 24
-            },
-            "2": {
-              "title": "Perfection Game",
-              "id": 25
-            },
-            "3": {
-              "title": "Decider",
-              "id": 28,
-              "ideas": {
-                "1": {
-                  "title": "Prepares proposal for meeting",
-                  "id": 29
-                }
-              }
-            }
-          }
-        },
-        "6": {
-          "title": "Tim Harford: Adapt: Why Success always starts with Failure",
-          "id": 46
-        },
-        "7": {
-          "title": "R. Brinkerhoff: The Learning Alliance: Systems Thinking in HR Development",
-          "id": 47
-        }
-      }
-    },
-    "2": {
-      "title": "Solution Focus",
-      "id": 4,
-      "ideas": {
-        "1": {
-          "title": "..., Paul Jackson: The Solution Focus",
-          "id": 7,
-          "attr": {
-            "style": {
-              "background": "#ff99cc"
-            }
-          },
-          "ideas": {
-            "1": {
-              "title": "Futurespectives",
-              "id": 27
-            }
-          }
-        },
-        "2": {
-          "title": "One small step",
-          "id": 8
-        },
-        "3": {
-          "title": "More than Miracles",
-          "id": 9
-        }
-      }
-    },
-    "4": {
-      "title": "Spiritualität",
-      "id": 34,
-      "ideas": {
-        "1": {
-          "title": "Ken Wilber: A Brief History of Everything",
-          "id": 35
-        }
-      }
-    },
-    "5": {
-      "title": "Fiction",
-      "id": 36,
-      "ideas": {
-        "1": {
-          "title": "Cory Doctorow: Little Brother, Homeland, ...",
-          "id": 37
-        }
-      }
-    },
-    "-1": {
-      "title": "Prozess",
-      "id": 3,
-      "ideas": {
-        "1": {
-          "title": "Don Reinertsen: ... Flow",
-          "id": 14
-        }
-      }
-    },
-    "-3": {
-      "title": "Softwareentwicklung ",
-      "id": 20,
-      "ideas": {
-        "1": {
-          "title": "The Leprechauns of Software Engineering",
-          "id": 21
-        },
-        "2": {
-          "title": "Code Complete",
-          "id": 30
-        },
-        "3": {
-          "title": "David Agans: Debugging (9 Rules)",
-          "id": 31
-        },
-        "4": {
-          "title": "DDD",
-          "id": 40,
-          "ideas": {
-            "1": {
-              "title": "Fowler - Patterns of Enterprise Application Architecture",
-              "id": 41
-            }
-          }
-        }
-      }
-    },
     "-13": {
       "title": "Empfehlungsgeber",
       "id": 16,
@@ -159,22 +12,6 @@
         }
       },
       "ideas": {
-        "1": {
-          "title": "Dan North (XP-Days 2013)",
-          "id": 17
-        },
-        "2": {
-          "title": "Pierluigi Pugliese (XP-Days 2013)",
-          "id": 18
-        },
-        "3": {
-          "title": "Johannes Link (XP-Days 2013)",
-          "id": 22
-        },
-        "4": {
-          "title": "Marc Bless",
-          "id": 26
-        },
         "5": {
           "title": "Stefan ... (Herbstcampus 2013)",
           "id": 38
@@ -187,9 +24,167 @@
           "title": "Eric Evans",
           "id": 43
         },
-        "1.5": {
-          "title": "Gojko Adzic (XP 2013)",
-          "id": 45,
+        "8": {
+          "title": "XP 2013, Juni, Wien",
+          "id": 55,
+          "ideas": {
+            "1": {
+              "title": "Gojko Adzic",
+              "id": 45,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "title": "XP-Days 2013, November, Karlsruhe",
+          "id": 56,
+          "ideas": {
+            "1": {
+              "title": "Dan North",
+              "id": 17,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            },
+            "2": {
+              "title": "Pierluigi Pugliese",
+              "id": 18,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            },
+            "3": {
+              "title": "Johannes Link",
+              "id": 22,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            },
+            "4": {
+              "title": "Marc Bless",
+              "id": 26,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "title": "Coaching",
+      "id": 52,
+      "attr": {
+        "style": {
+          "background": "#99cc00"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Solution Focus",
+          "id": 4,
+          "ideas": {
+            "1": {
+              "title": "..., Paul Jackson: The Solution Focus",
+              "id": 7,
+              "attr": {
+                "style": {
+                  "background": "#ff99cc"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "Futurespectives",
+                  "id": 27
+                }
+              }
+            },
+            "2": {
+              "title": "One small step",
+              "id": 8
+            },
+            "3": {
+              "title": "More than Miracles",
+              "id": 9
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "2": {
+          "title": "Change",
+          "id": 2,
+          "ideas": {
+            "1": {
+              "title": "Lean Coffee zum Culture Hacking",
+              "id": 5,
+              "ideas": {
+                "1": {
+                  "title": "Jason Little: Lean Change",
+                  "id": 6
+                }
+              }
+            },
+            "2": {
+              "title": "Appreciative Team Building",
+              "id": 13
+            },
+            "3": {
+              "title": "Agile Adoption Patterns - Richard Durnall, 2009",
+              "id": 15
+            },
+            "4": {
+              "title": "Beyond Budgeting",
+              "id": 19
+            },
+            "5": {
+              "title": "McCarthy: The Core Protocols",
+              "id": 23,
+              "ideas": {
+                "1": {
+                  "title": "Check In",
+                  "id": 24
+                },
+                "2": {
+                  "title": "Perfection Game",
+                  "id": 25
+                },
+                "3": {
+                  "title": "Decider",
+                  "id": 28,
+                  "ideas": {
+                    "1": {
+                      "title": "Prepares proposal for meeting",
+                      "id": 29
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "title": "Tim Harford: Adapt: Why Success always starts with Failure",
+              "id": 46
+            },
+            "7": {
+              "title": "R. Brinkerhoff: The Learning Alliance: Systems Thinking in HR Development",
+              "id": 47
+            }
+          },
           "attr": {
             "style": {
               "background": "#E0E0E0"
@@ -198,42 +193,157 @@
         }
       }
     },
-    "-0.5": {
-      "title": "Management",
-      "id": 32,
+    "8": {
+      "title": "Anderes",
+      "id": 53,
+      "attr": {
+        "style": {
+          "background": "#99cc00"
+        }
+      },
       "ideas": {
         "1": {
-          "title": "Steve Denning: Radical Management",
-          "id": 33
+          "title": "Fiction",
+          "id": 36,
+          "ideas": {
+            "1": {
+              "title": "Cory Doctorow: Little Brother, Homeland, ...",
+              "id": 37
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
         },
         "2": {
-          "title": "Scott Berkun: The Art of Project Management (O'Reilly)",
-          "id": 44
+          "title": "Spiritualität",
+          "id": 34,
+          "ideas": {
+            "1": {
+              "title": "Ken Wilber: A Brief History of Everything",
+              "id": 35
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "3": {
+          "title": "Kreativität",
+          "id": 10,
+          "ideas": {
+            "1": {
+              "title": "Where good ideas come from: Steven Johnson",
+              "id": 11
+            },
+            "2": {
+              "title": "Brain at Work - David Rock",
+              "id": 12,
+              "ideas": {}
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
         }
       }
     },
-    "-8": {
-      "title": "Kreativität",
-      "id": 10,
+    "-0.75": {
+      "title": "Software Development",
+      "id": 51,
+      "attr": {
+        "style": {
+          "background": "#99cc00"
+        }
+      },
       "ideas": {
         "1": {
-          "title": "Where good ideas come from: Steven Johnson",
-          "id": 11
+          "title": "Prozess",
+          "id": 3,
+          "ideas": {
+            "1": {
+              "title": "Don Reinertsen: ... Flow",
+              "id": 14
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
         },
         "2": {
-          "title": "Brain at Work - David Rock",
-          "id": 12,
-          "ideas": {}
-        }
-      }
-    },
-    "-2": {
-      "title": "Business",
-      "id": 48,
-      "ideas": {
-        "1": {
-          "title": "D. Hubbard: How to measure anything: Finding the value of intangibles in business",
-          "id": 49
+          "title": "Business",
+          "id": 48,
+          "ideas": {
+            "1": {
+              "title": "D. Hubbard: How to measure anything: Finding the value of intangibles in business",
+              "id": 49
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "3": {
+          "title": "Softwareentwicklung ",
+          "id": 20,
+          "ideas": {
+            "1": {
+              "title": "The Leprechauns of Software Engineering",
+              "id": 21
+            },
+            "2": {
+              "title": "Code Complete",
+              "id": 30
+            },
+            "3": {
+              "title": "David Agans: Debugging (9 Rules)",
+              "id": 31
+            },
+            "4": {
+              "title": "DDD",
+              "id": 40,
+              "ideas": {
+                "1": {
+                  "title": "Fowler - Patterns of Enterprise Application Architecture",
+                  "id": 41
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "0.5": {
+          "title": "Management",
+          "id": 32,
+          "ideas": {
+            "1": {
+              "title": "Steve Denning: Radical Management",
+              "id": 33
+            },
+            "2": {
+              "title": "Scott Berkun: The Art of Project Management (O'Reilly)",
+              "id": 44
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
         }
       }
     }
