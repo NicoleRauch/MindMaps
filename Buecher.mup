@@ -52,6 +52,14 @@
               }
             }
           }
+        },
+        "6": {
+          "title": "Tim Harford: Adapt: Why Success always starts with Failure",
+          "id": 46
+        },
+        "7": {
+          "title": "R. Brinkerhoff: The Learning Alliance: Systems Thinking in HR Development",
+          "id": 47
         }
       }
     },
@@ -84,6 +92,26 @@
         }
       }
     },
+    "4": {
+      "title": "Spiritualität",
+      "id": 34,
+      "ideas": {
+        "1": {
+          "title": "Ken Wilber: A Brief History of Everything",
+          "id": 35
+        }
+      }
+    },
+    "5": {
+      "title": "Fiction",
+      "id": 36,
+      "ideas": {
+        "1": {
+          "title": "Cory Doctorow: Little Brother, Homeland, ...",
+          "id": 37
+        }
+      }
+    },
     "-1": {
       "title": "Prozess",
       "id": 3,
@@ -94,20 +122,6 @@
         }
       }
     },
-    "-2": {
-      "title": "Kreativität",
-      "id": 10,
-      "ideas": {
-        "1": {
-          "title": "Where good ideas come from: Steven Johnson",
-          "id": 11
-        },
-        "2": {
-          "title": "Brain at Work - David Rock",
-          "id": 12
-        }
-      }
-    },
     "-3": {
       "title": "Softwareentwicklung ",
       "id": 20,
@@ -115,6 +129,24 @@
         "1": {
           "title": "The Leprechauns of Software Engineering",
           "id": 21
+        },
+        "2": {
+          "title": "Code Complete",
+          "id": 30
+        },
+        "3": {
+          "title": "David Agans: Debugging (9 Rules)",
+          "id": 31
+        },
+        "4": {
+          "title": "DDD",
+          "id": 40,
+          "ideas": {
+            "1": {
+              "title": "Fowler - Patterns of Enterprise Application Architecture",
+              "id": 41
+            }
+          }
         }
       }
     },
@@ -142,6 +174,66 @@
         "4": {
           "title": "Marc Bless",
           "id": 26
+        },
+        "5": {
+          "title": "Stefan ... (Herbstcampus 2013)",
+          "id": 38
+        },
+        "6": {
+          "title": "Matthias Krings",
+          "id": 39
+        },
+        "7": {
+          "title": "Eric Evans",
+          "id": 43
+        },
+        "1.5": {
+          "title": "Gojko Adzic (XP 2013)",
+          "id": 45,
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        }
+      }
+    },
+    "-0.5": {
+      "title": "Management",
+      "id": 32,
+      "ideas": {
+        "1": {
+          "title": "Steve Denning: Radical Management",
+          "id": 33
+        },
+        "2": {
+          "title": "Scott Berkun: The Art of Project Management (O'Reilly)",
+          "id": 44
+        }
+      }
+    },
+    "-8": {
+      "title": "Kreativität",
+      "id": 10,
+      "ideas": {
+        "1": {
+          "title": "Where good ideas come from: Steven Johnson",
+          "id": 11
+        },
+        "2": {
+          "title": "Brain at Work - David Rock",
+          "id": 12,
+          "ideas": {}
+        }
+      }
+    },
+    "-2": {
+      "title": "Business",
+      "id": 48,
+      "ideas": {
+        "1": {
+          "title": "D. Hubbard: How to measure anything: Finding the value of intangibles in business",
+          "id": 49
         }
       }
     }
@@ -220,6 +312,76 @@
     {
       "ideaIdFrom": 17,
       "ideaIdTo": 14,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 38,
+      "ideaIdTo": 37,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 39,
+      "ideaIdTo": 30,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 43,
+      "ideaIdTo": 41,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 45,
+      "ideaIdTo": 44,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 46,
+      "ideaIdTo": 45,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 47,
+      "ideaIdTo": 45,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 49,
+      "ideaIdTo": 45,
       "attr": {
         "style": {
           "color": "#FF0000",
