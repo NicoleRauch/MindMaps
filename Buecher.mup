@@ -37,7 +37,7 @@
                 }
               }
             },
-            "2": {
+            "0.5": {
               "title": "Ken Power",
               "id": 57
             }
@@ -268,7 +268,7 @@
         }
       }
     },
-    "-0.75": {
+    "-6.5": {
       "title": "Software Development",
       "id": 51,
       "attr": {
