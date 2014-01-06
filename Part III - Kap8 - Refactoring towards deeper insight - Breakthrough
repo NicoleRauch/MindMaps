@@ -188,7 +188,8 @@
       "attr": {
         "style": {
           "background": "#ccffff"
-        }
+        },
+        "collapsed": true
       },
       "ideas": {
         "1": {
@@ -252,6 +253,34 @@
         "5": {
           "title": "Erst dann einführen, wenn man es wirklich braucht!",
           "id": 97
+        },
+        "6": {
+          "title": "Nicht jedes Design Pattern ist ein Domain Pattern",
+          "id": 98,
+          "ideas": {
+            "2": {
+              "title": "Es muss etwas über die konzeptuelle Domäne sagen",
+              "id": 102
+            },
+            "3": {
+              "title": "Nicht nur eine technische Lösung für ein technisches Problem",
+              "id": 103
+            },
+            "13": {
+              "title": "Flyweight",
+              "id": 99,
+              "ideas": {
+                "1": {
+                  "title": "Keine Verbindung zum Domänenmodell",
+                  "id": 100
+                },
+                "2": {
+                  "title": "Implementierungsoption für Value Objects und Entities",
+                  "id": 101
+                }
+              }
+            }
+          }
         }
       }
     },
