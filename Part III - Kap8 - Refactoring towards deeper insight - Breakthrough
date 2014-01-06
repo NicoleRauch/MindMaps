@@ -179,6 +179,77 @@
       "attr": {
         "style": {
           "background": "#ccffff"
+        },
+        "collapsed": true
+      },
+      "ideas": {
+        "1": {
+          "title": "Analysis Pattern",
+          "id": 104,
+          "ideas": {
+            "1": {
+              "title": "Gruppe von Domänen-Konzepten, die ein häufig vorkommendes Konstrukt bilden",
+              "id": 105
+            },
+            "2": {
+              "title": "Ist ein Startpunkt zum Experimentieren, keine fertige Lösung",
+              "id": 106
+            },
+            "0.5": {
+              "title": "Martin Fowler: Analysis Patterns",
+              "id": 107
+            },
+            "3": {
+              "title": "Keine technische Lösung, sondern Hilfestellung zum Erarbeiten eines Domänenmodells",
+              "id": 108
+            },
+            "4": {
+              "title": "Beispiel: Buchhaltung",
+              "id": 109,
+              "ideas": {
+                "1": {
+                  "title": "Konto mit Bewegungen",
+                  "id": 110
+                },
+                "2": {
+                  "title": "Transaktion: doppelte Buchführung",
+                  "id": 111
+                },
+                "3": {
+                  "title": "Anwendung auf Zins- und Gebührenverwaltung, Bewegungen werden explizit",
+                  "id": 112
+                },
+                "4": {
+                  "title": "\"Transaktion\" passt nicht, da keine doppelte Buchführung",
+                  "id": 113
+                },
+                "5": {
+                  "title": "Klassifizerung der verschiedenen Bewegungen",
+                  "id": 114
+                },
+                "6": {
+                  "title": "Strategien zum Erfassen der Bewegungen und zum Aktualisieren",
+                  "id": 115
+                }
+              }
+            },
+            "3.5": {
+              "title": "Bausatz aus Modellfragmenten",
+              "id": 116
+            },
+            "3.75": {
+              "title": "Fokussiert auf die kritischsten und schwierigsten Entscheidungen",
+              "id": 117
+            },
+            "3.875": {
+              "title": "Beleuchtet Alternativen und Wahlmöglichkeiten",
+              "id": 118
+            },
+            "3.9375": {
+              "title": "Zeigt spätere kostspielige Konsequenzen auf",
+              "id": 120
+            }
+          }
         }
       }
     },
@@ -511,5 +582,6 @@
     "style": {
       "background": "#ccffff"
     }
-  }
+  },
+  "links": []
 }
