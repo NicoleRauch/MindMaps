@@ -189,6 +189,70 @@
         "style": {
           "background": "#ccffff"
         }
+      },
+      "ideas": {
+        "1": {
+          "title": "Manche Design Patterns können als Domain Patterns verwendet werden",
+          "id": 83,
+          "ideas": {
+            "1": {
+              "title": "erfordert gleichzeitige Betrachtung auf zwei Leveln",
+              "id": 84
+            },
+            "2": {
+              "title": "Design Pattern = technisch, im Code",
+              "id": 85
+            },
+            "3": {
+              "title": "Domain Pattern = konzeptionell, im Modell",
+              "id": 86
+            }
+          }
+        },
+        "2": {
+          "title": "Domain Modelle enthalten Prozesse, die nicht technisch motiviert sind, sondern die eine echte Bedeutung in der Problemdomäne haben.",
+          "id": 87
+        },
+        "3": {
+          "title": "Strategy Pattern als Domain Pattern",
+          "id": 88,
+          "ideas": {
+            "1": {
+              "title": "Kann einen Prozess oder eine Policy beschreiben",
+              "id": 90,
+              "ideas": {
+                "1": {
+                  "title": "Routing Service: Schnellste Route vs. günstigste Route",
+                  "id": 91
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "title": "Composite Pattern als Domain Pattern",
+          "id": 93,
+          "ideas": {
+            "1": {
+              "title": "Kann die Ähnlichkeiten zwischen verschachtelten Containern ausdrücken",
+              "id": 94,
+              "ideas": {
+                "1": {
+                  "title": "Lade- und Transportvorgänge können zu Routenabschnitten zusammengefasst werden",
+                  "id": 95
+                },
+                "2": {
+                  "title": "Routenabschnitte können zu logischen Segmenten zusammengefasst werden (z. B. Übersee)",
+                  "id": 96
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "title": "Erst dann einführen, wenn man es wirklich braucht!",
+          "id": 97
+        }
       }
     },
     "32": {
@@ -197,7 +261,8 @@
       "attr": {
         "style": {
           "background": "#ccffff"
-        }
+        },
+        "collapsed": true
       },
       "ideas": {
         "1": {
