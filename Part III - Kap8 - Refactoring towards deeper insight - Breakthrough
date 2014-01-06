@@ -9,7 +9,8 @@
       "attr": {
         "style": {
           "background": "#ccffff"
-        }
+        },
+        "collapsed": true
       },
       "ideas": {
         "1": {
@@ -162,7 +163,8 @@
       "attr": {
         "style": {
           "background": "#ccffff"
-        }
+        },
+        "collapsed": true
       },
       "ideas": {
         "1": {
@@ -195,6 +197,92 @@
       "attr": {
         "style": {
           "background": "#ccffff"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Fokussieren auf",
+          "id": 64,
+          "ideas": {
+            "1": {
+              "title": "1. In der Domain leben",
+              "id": 65
+            },
+            "2": {
+              "title": "2. Ständig auf neue Art auf die Dinge schauen",
+              "id": 66
+            },
+            "3": {
+              "title": "3. Kontinuierlich mit den Domain Experten sprechen",
+              "id": 67
+            }
+          }
+        },
+        "2": {
+          "title": "Startpunkte",
+          "id": 68,
+          "ideas": {
+            "1": {
+              "title": "Ein Problem im Code",
+              "id": 69
+            },
+            "2": {
+              "title": "Ein fehlendes Konzept",
+              "id": 70
+            },
+            "3": {
+              "title": "Eine falsche Beziehung",
+              "id": 71
+            },
+            "4": {
+              "title": "Nicht die Sprache der Domain Experten",
+              "id": 72
+            },
+            "5": {
+              "title": "Neue Anforderungen passen nicht",
+              "id": 73
+            }
+          }
+        },
+        "3": {
+          "title": "Vorgehensweise",
+          "id": 74,
+          "ideas": {
+            "1": {
+              "title": "Kleines Team, spontan zusammengestellt",
+              "id": 75
+            },
+            "2": {
+              "title": "2 - 3 Gespräche über wenige Tage",
+              "id": 76
+            },
+            "3": {
+              "title": "Die Ubiquitous Language üben und verfeinern",
+              "id": 77
+            }
+          }
+        },
+        "4": {
+          "title": "Augenmaß",
+          "id": 78,
+          "ideas": {
+            "1": {
+              "title": "für das richtige Timing",
+              "id": 79
+            },
+            "2": {
+              "title": "für das Abwägen des Risikos (ein schlechtes Design zu behalten) und der Kosten (darum herum zu entwickeln)",
+              "id": 80
+            },
+            "3": {
+              "title": "für Designs, die nicht die Domäne treffen",
+              "id": 81
+            },
+            "4": {
+              "title": "für Modelle, die die Domain Experten ablehnen",
+              "id": 82
+            }
+          }
         }
       }
     },
@@ -300,6 +388,12 @@
             }
           }
         }
+      },
+      "attr": {
+        "collapsed": true,
+        "style": {
+          "background": "#E0E0E0"
+        }
       }
     },
     "1.5": {
@@ -308,7 +402,8 @@
       "attr": {
         "style": {
           "background": "#ccffff"
-        }
+        },
+        "collapsed": true
       },
       "ideas": {
         "1": {
