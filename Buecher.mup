@@ -3,100 +3,6 @@
   "id": 1,
   "formatVersion": 2,
   "ideas": {
-    "-13": {
-      "title": "Empfehlungsgeber",
-      "id": 16,
-      "attr": {
-        "style": {
-          "background": "#ffcc00"
-        }
-      },
-      "ideas": {
-        "5": {
-          "title": "Stefan ... (Herbstcampus 2013)",
-          "id": 38
-        },
-        "6": {
-          "title": "Matthias Krings",
-          "id": 39
-        },
-        "7": {
-          "title": "Eric Evans",
-          "id": 43
-        },
-        "8": {
-          "title": "XP 2013, Juni, Wien",
-          "id": 55,
-          "ideas": {
-            "1": {
-              "title": "Gojko Adzic",
-              "id": 45,
-              "attr": {
-                "style": {
-                  "background": "#E0E0E0"
-                }
-              }
-            },
-            "0.5": {
-              "title": "Ken Power",
-              "id": 57
-            }
-          }
-        },
-        "9": {
-          "title": "XP-Days 2013, November, Karlsruhe",
-          "id": 56,
-          "ideas": {
-            "1": {
-              "title": "Dan North",
-              "id": 17,
-              "attr": {
-                "style": {
-                  "background": "#E0E0E0"
-                }
-              }
-            },
-            "2": {
-              "title": "Pierluigi Pugliese",
-              "id": 18,
-              "attr": {
-                "style": {
-                  "background": "#E0E0E0"
-                }
-              }
-            },
-            "3": {
-              "title": "Johannes Link",
-              "id": 22,
-              "attr": {
-                "style": {
-                  "background": "#E0E0E0"
-                }
-              }
-            },
-            "4": {
-              "title": "Marc Bless",
-              "id": 26,
-              "attr": {
-                "style": {
-                  "background": "#E0E0E0"
-                }
-              }
-            }
-          }
-        },
-        "10": {
-          "title": "Campus 2013",
-          "id": 62,
-          "ideas": {
-            "1": {
-              "title": "Frank Goraus",
-              "id": 63
-            }
-          }
-        }
-      }
-    },
     "7": {
       "title": "Coaching",
       "id": 52,
@@ -268,6 +174,100 @@
         }
       }
     },
+    "-13": {
+      "title": "Empfehlungsgeber",
+      "id": 16,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        }
+      },
+      "ideas": {
+        "5": {
+          "title": "Stefan ... (Herbstcampus 2013)",
+          "id": 38
+        },
+        "6": {
+          "title": "Matthias Krings",
+          "id": 39
+        },
+        "7": {
+          "title": "Eric Evans",
+          "id": 43
+        },
+        "8": {
+          "title": "XP 2013, Juni, Wien",
+          "id": 55,
+          "ideas": {
+            "1": {
+              "title": "Gojko Adzic",
+              "id": 45,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            },
+            "0.5": {
+              "title": "Ken Power",
+              "id": 57
+            }
+          }
+        },
+        "9": {
+          "title": "XP-Days 2013, November, Karlsruhe",
+          "id": 56,
+          "ideas": {
+            "1": {
+              "title": "Dan North",
+              "id": 17,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            },
+            "2": {
+              "title": "Pierluigi Pugliese",
+              "id": 18,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            },
+            "3": {
+              "title": "Johannes Link",
+              "id": 22,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            },
+            "4": {
+              "title": "Marc Bless",
+              "id": 26,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            }
+          }
+        },
+        "10": {
+          "title": "Campus 2013",
+          "id": 62,
+          "ideas": {
+            "1": {
+              "title": "Frank Goraus",
+              "id": 63
+            }
+          }
+        }
+      }
+    },
     "-6.5": {
       "title": "Software Development",
       "id": 51,
@@ -339,7 +339,12 @@
               "ideas": {
                 "1": {
                   "title": "Crockford: JavaScript - The good Parts (O'Reilly)",
-                  "id": 61
+                  "id": 61,
+                  "attr": {
+                    "style": {
+                      "background": "#c0c0c0"
+                    }
+                  }
                 }
               }
             }
