@@ -50,27 +50,19 @@
           "title": "Change",
           "id": 2,
           "ideas": {
-            "1": {
-              "title": "Lean Coffee zum Culture Hacking",
-              "id": 5,
-              "ideas": {
-                "1": {
-                  "title": "Jason Little: Lean Change",
-                  "id": 6
-                }
-              }
-            },
             "2": {
-              "title": "Appreciative Team Building",
+              "title": "Diana Whitney: Appreciative Team Building",
               "id": 13
             },
             "3": {
               "title": "Agile Adoption Patterns - Richard Durnall, 2009",
-              "id": 15
-            },
-            "4": {
-              "title": "Beyond Budgeting",
-              "id": 19
+              "id": 15,
+              "ideas": {
+                "1": {
+                  "title": "http://www.richarddurnall.com/?p=57",
+                  "id": 74
+                }
+              }
             },
             "5": {
               "title": "McCarthy: The Core Protocols",
@@ -103,6 +95,36 @@
             "7": {
               "title": "R. Brinkerhoff: The Learning Alliance: Systems Thinking in HR Development",
               "id": 47
+            },
+            "4.5": {
+              "title": "Hope, Fraser: Beyond Budgeting",
+              "id": 65,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            },
+            "8": {
+              "title": "Jason Little: Lean Change Management (Leanpub)",
+              "id": 6,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "Lean Coffee zum Culture Hacking",
+                  "id": 5,
+                  "ideas": {},
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                }
+              }
             }
           },
           "attr": {
@@ -184,8 +206,22 @@
       },
       "ideas": {
         "5": {
-          "title": "Stefan ... (Herbstcampus 2013)",
-          "id": 38
+          "title": "Herbstcampus 2013",
+          "id": 38,
+          "ideas": {
+            "1": {
+              "title": "Stefan ...",
+              "id": 66
+            },
+            "2": {
+              "title": "Uwe Friedrichsen",
+              "id": 67
+            },
+            "3": {
+              "title": "Eberhard Wolff",
+              "id": 73
+            }
+          }
         },
         "6": {
           "title": "Matthias Krings",
@@ -299,6 +335,10 @@
             "1": {
               "title": "D. Hubbard: How to measure anything: Finding the value of intangibles in business",
               "id": 49
+            },
+            "2": {
+              "title": "O'Grady: The New Kingmakers (O'Reilly)",
+              "id": 69
             }
           },
           "attr": {
@@ -312,7 +352,7 @@
           "id": 20,
           "ideas": {
             "1": {
-              "title": "The Leprechauns of Software Engineering",
+              "title": "Bossavit: The Leprechauns of Software Engineering (Leanpub)",
               "id": 21
             },
             "2": {
@@ -347,6 +387,14 @@
                   }
                 }
               }
+            },
+            "6": {
+              "title": "Nygard: Release it! (Pragmatic Programmers, O'Reilly)",
+              "id": 70
+            },
+            "7": {
+              "title": "Redmond, Wilson: Seven Databases in Seven Weeks (Pragmatic Programmers, O'Reilly)",
+              "id": 72
             }
           },
           "attr": {
@@ -363,10 +411,6 @@
               "title": "Steve Denning: Radical Management",
               "id": 33
             },
-            "2": {
-              "title": "Scott Berkun: The Art of Project Management (O'Reilly)",
-              "id": 44
-            },
             "3": {
               "title": "James Womack: Gemba Walks",
               "id": 58
@@ -374,6 +418,10 @@
             "4": {
               "title": "M. Czikszentmihalyi: Flow: Das Geheimnis des Glücks",
               "id": 59
+            },
+            "14": {
+              "title": "Scott Berkun: The Art of Project Management (O'Reilly)",
+              "id": 44
             }
           },
           "attr": {
@@ -419,16 +467,6 @@
     {
       "ideaIdFrom": 18,
       "ideaIdTo": 7,
-      "attr": {
-        "style": {
-          "color": "#FF0000",
-          "lineStyle": "dashed"
-        }
-      }
-    },
-    {
-      "ideaIdFrom": 19,
-      "ideaIdTo": 17,
       "attr": {
         "style": {
           "color": "#FF0000",
@@ -569,6 +607,66 @@
     {
       "ideaIdFrom": 63,
       "ideaIdTo": 61,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 37,
+      "ideaIdTo": 66,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 67,
+      "ideaIdTo": 65,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 70,
+      "ideaIdTo": 67,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 73,
+      "ideaIdTo": 72,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 45,
+      "ideaIdTo": 17,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 17,
+      "ideaIdTo": 65,
       "attr": {
         "style": {
           "color": "#FF0000",
