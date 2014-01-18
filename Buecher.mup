@@ -28,16 +28,49 @@
                 "1": {
                   "title": "Futurespectives",
                   "id": 27
+                },
+                "2": {
+                  "title": "Pierluigi, XP-Days 2013",
+                  "id": 82,
+                  "attr": {
+                    "style": {
+                      "background": "#ffff99"
+                    }
+                  },
+                  "ideas": {}
                 }
               }
             },
             "2": {
               "title": "One small step",
-              "id": 8
+              "id": 8,
+              "ideas": {
+                "1": {
+                  "title": "Pierluigi, XP-Days 2013",
+                  "attr": {
+                    "style": {
+                      "background": "#ffff99"
+                    }
+                  },
+                  "id": 83,
+                  "ideas": {}
+                }
+              }
             },
             "3": {
               "title": "More than Miracles",
-              "id": 9
+              "id": 9,
+              "ideas": {
+                "1": {
+                  "title": "Pierluigi, XP-Days 2013",
+                  "attr": {
+                    "style": {
+                      "background": "#ffff99"
+                    }
+                  },
+                  "id": 84
+                }
+              }
             }
           },
           "attr": {
@@ -61,6 +94,15 @@
                 "1": {
                   "title": "http://www.richarddurnall.com/?p=57",
                   "id": 74
+                },
+                "2": {
+                  "title": "Dan North, XP-Days 2013",
+                  "attr": {
+                    "style": {
+                      "background": "#ffff99"
+                    }
+                  },
+                  "id": 93
                 }
               }
             },
@@ -85,16 +127,56 @@
                       "id": 29
                     }
                   }
+                },
+                "4": {
+                  "title": "Marc Bless, XP-Days 2013",
+                  "id": 78,
+                  "attr": {
+                    "style": {
+                      "background": "#ffff99"
+                    }
+                  }
+                },
+                "5": {
+                  "title": "Yves Hanoulle",
+                  "id": 79,
+                  "attr": {
+                    "style": {
+                      "background": "#ffff99"
+                    }
+                  }
                 }
               }
             },
             "6": {
               "title": "Tim Harford: Adapt: Why Success always starts with Failure",
-              "id": 46
+              "id": 46,
+              "ideas": {
+                "1": {
+                  "title": "Gojko Adzic, XP 2013",
+                  "id": 88,
+                  "attr": {
+                    "style": {
+                      "background": "#ffff99"
+                    }
+                  }
+                }
+              }
             },
             "7": {
               "title": "R. Brinkerhoff: The Learning Alliance: Systems Thinking in HR Development",
-              "id": 47
+              "id": 47,
+              "ideas": {
+                "1": {
+                  "title": "Gojko Adzic, XP 2013",
+                  "attr": {
+                    "style": {
+                      "background": "#ffff99"
+                    }
+                  },
+                  "id": 89
+                }
+              }
             },
             "4.5": {
               "title": "Hope, Fraser: Beyond Budgeting",
@@ -102,6 +184,26 @@
               "attr": {
                 "style": {
                   "background": "#E0E0E0"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "Uwe Friedrichsen, Herbstcampus 2013",
+                  "attr": {
+                    "style": {
+                      "background": "#ffff99"
+                    }
+                  },
+                  "id": 86
+                },
+                "2": {
+                  "title": "Dan North, XP-Days 2013",
+                  "id": 92,
+                  "attr": {
+                    "style": {
+                      "background": "#ffff99"
+                    }
+                  }
                 }
               }
             },
@@ -150,7 +252,18 @@
           "ideas": {
             "1": {
               "title": "Cory Doctorow: Little Brother, Homeland, ...",
-              "id": 37
+              "id": 37,
+              "ideas": {
+                "1": {
+                  "title": "Stefan ..., Herbstcampus 2013",
+                  "id": 80,
+                  "attr": {
+                    "style": {
+                      "background": "#ffff99"
+                    }
+                  }
+                }
+              }
             }
           },
           "attr": {
@@ -196,114 +309,6 @@
         }
       }
     },
-    "-13": {
-      "title": "Empfehlungsgeber",
-      "id": 16,
-      "attr": {
-        "style": {
-          "background": "#ffcc00"
-        }
-      },
-      "ideas": {
-        "5": {
-          "title": "Herbstcampus 2013",
-          "id": 38,
-          "ideas": {
-            "1": {
-              "title": "Stefan ...",
-              "id": 66
-            },
-            "2": {
-              "title": "Uwe Friedrichsen",
-              "id": 67
-            },
-            "3": {
-              "title": "Eberhard Wolff",
-              "id": 73
-            }
-          }
-        },
-        "6": {
-          "title": "Matthias Krings",
-          "id": 39
-        },
-        "7": {
-          "title": "Eric Evans",
-          "id": 43
-        },
-        "8": {
-          "title": "XP 2013, Juni, Wien",
-          "id": 55,
-          "ideas": {
-            "1": {
-              "title": "Gojko Adzic",
-              "id": 45,
-              "attr": {
-                "style": {
-                  "background": "#E0E0E0"
-                }
-              }
-            },
-            "0.5": {
-              "title": "Ken Power",
-              "id": 57
-            }
-          }
-        },
-        "9": {
-          "title": "XP-Days 2013, November, Karlsruhe",
-          "id": 56,
-          "ideas": {
-            "1": {
-              "title": "Dan North",
-              "id": 17,
-              "attr": {
-                "style": {
-                  "background": "#E0E0E0"
-                }
-              }
-            },
-            "2": {
-              "title": "Pierluigi Pugliese",
-              "id": 18,
-              "attr": {
-                "style": {
-                  "background": "#E0E0E0"
-                }
-              }
-            },
-            "3": {
-              "title": "Johannes Link",
-              "id": 22,
-              "attr": {
-                "style": {
-                  "background": "#E0E0E0"
-                }
-              }
-            },
-            "4": {
-              "title": "Marc Bless",
-              "id": 26,
-              "attr": {
-                "style": {
-                  "background": "#E0E0E0"
-                }
-              }
-            }
-          }
-        },
-        "10": {
-          "title": "Campus 2013",
-          "id": 62,
-          "ideas": {
-            "1": {
-              "title": "Frank Goraus",
-              "id": 63
-            }
-          }
-        }
-      }
-    },
     "-6.5": {
       "title": "Software Development",
       "id": 51,
@@ -319,7 +324,27 @@
           "ideas": {
             "1": {
               "title": "Don Reinertsen: ... Flow",
-              "id": 14
+              "id": 14,
+              "ideas": {
+                "1": {
+                  "title": "Dan North, XP-Days 2013",
+                  "attr": {
+                    "style": {
+                      "background": "#ffff99"
+                    }
+                  },
+                  "id": 94
+                },
+                "2": {
+                  "title": "Ken Power, XP 2013",
+                  "id": 95,
+                  "attr": {
+                    "style": {
+                      "background": "#ffff99"
+                    }
+                  }
+                }
+              }
             }
           },
           "attr": {
@@ -334,11 +359,33 @@
           "ideas": {
             "1": {
               "title": "D. Hubbard: How to measure anything: Finding the value of intangibles in business",
-              "id": 49
+              "id": 49,
+              "ideas": {
+                "1": {
+                  "title": "Gojko Adzic, XP 2013",
+                  "attr": {
+                    "style": {
+                      "background": "#ffff99"
+                    }
+                  },
+                  "id": 90
+                }
+              }
             },
             "2": {
               "title": "O'Grady: The New Kingmakers (O'Reilly)",
-              "id": 69
+              "id": 69,
+              "ideas": {
+                "1": {
+                  "title": "Uwe Friedrichsen, Herbstcampus 2013",
+                  "attr": {
+                    "style": {
+                      "background": "#ffff99"
+                    }
+                  },
+                  "id": 87
+                }
+              }
             }
           },
           "attr": {
@@ -353,11 +400,33 @@
           "ideas": {
             "1": {
               "title": "Bossavit: The Leprechauns of Software Engineering (Leanpub)",
-              "id": 21
+              "id": 21,
+              "ideas": {
+                "1": {
+                  "title": "Johannes Link, XP-Days 2013",
+                  "id": 77,
+                  "attr": {
+                    "style": {
+                      "background": "#ffff99"
+                    }
+                  }
+                }
+              }
             },
             "2": {
               "title": "Code Complete",
-              "id": 30
+              "id": 30,
+              "ideas": {
+                "1": {
+                  "title": "Matthias Krings",
+                  "id": 75,
+                  "attr": {
+                    "style": {
+                      "background": "#ffff99"
+                    }
+                  }
+                }
+              }
             },
             "3": {
               "title": "David Agans: Debugging (9 Rules)",
@@ -369,7 +438,18 @@
               "ideas": {
                 "1": {
                   "title": "Fowler - Patterns of Enterprise Application Architecture",
-                  "id": 41
+                  "id": 41,
+                  "ideas": {
+                    "1": {
+                      "title": "Eric Evans",
+                      "id": 76,
+                      "attr": {
+                        "style": {
+                          "background": "#ffff99"
+                        }
+                      }
+                    }
+                  }
                 }
               }
             },
@@ -390,11 +470,33 @@
             },
             "6": {
               "title": "Nygard: Release it! (Pragmatic Programmers, O'Reilly)",
-              "id": 70
+              "id": 70,
+              "ideas": {
+                "1": {
+                  "title": "Uwe Friedrichsen, Herbstcampus 2013",
+                  "id": 85,
+                  "attr": {
+                    "style": {
+                      "background": "#ffff99"
+                    }
+                  }
+                }
+              }
             },
             "7": {
               "title": "Redmond, Wilson: Seven Databases in Seven Weeks (Pragmatic Programmers, O'Reilly)",
-              "id": 72
+              "id": 72,
+              "ideas": {
+                "1": {
+                  "title": "Eberhard Wolff, Herbstcampus 2013",
+                  "id": 81,
+                  "attr": {
+                    "style": {
+                      "background": "#ffff99"
+                    }
+                  }
+                }
+              }
             }
           },
           "attr": {
@@ -413,15 +515,48 @@
             },
             "3": {
               "title": "James Womack: Gemba Walks",
-              "id": 58
+              "id": 58,
+              "ideas": {
+                "1": {
+                  "title": "Ken Power, XP 2013",
+                  "attr": {
+                    "style": {
+                      "background": "#ffff99"
+                    }
+                  },
+                  "id": 97
+                }
+              }
             },
             "4": {
               "title": "M. Czikszentmihalyi: Flow: Das Geheimnis des Glücks",
-              "id": 59
+              "id": 59,
+              "ideas": {
+                "1": {
+                  "title": "Ken Power, XP 2013",
+                  "attr": {
+                    "style": {
+                      "background": "#ffff99"
+                    }
+                  },
+                  "id": 96
+                }
+              }
             },
             "14": {
               "title": "Scott Berkun: The Art of Project Management (O'Reilly)",
-              "id": 44
+              "id": 44,
+              "ideas": {
+                "1": {
+                  "title": "Gojko Adzic, XP 2013",
+                  "attr": {
+                    "style": {
+                      "background": "#ffff99"
+                    }
+                  },
+                  "id": 91
+                }
+              }
             }
           },
           "attr": {
@@ -435,238 +570,8 @@
   },
   "links": [
     {
-      "ideaIdFrom": 17,
-      "ideaIdTo": 15,
-      "attr": {
-        "style": {
-          "color": "#FF0000",
-          "lineStyle": "dashed"
-        }
-      }
-    },
-    {
-      "ideaIdFrom": 18,
-      "ideaIdTo": 9,
-      "attr": {
-        "style": {
-          "color": "#FF0000",
-          "lineStyle": "dashed"
-        }
-      }
-    },
-    {
-      "ideaIdFrom": 18,
-      "ideaIdTo": 8,
-      "attr": {
-        "style": {
-          "color": "#FF0000",
-          "lineStyle": "dashed"
-        }
-      }
-    },
-    {
-      "ideaIdFrom": 18,
-      "ideaIdTo": 7,
-      "attr": {
-        "style": {
-          "color": "#FF0000",
-          "lineStyle": "dashed"
-        }
-      }
-    },
-    {
-      "ideaIdFrom": 22,
-      "ideaIdTo": 21,
-      "attr": {
-        "style": {
-          "color": "#FF0000",
-          "lineStyle": "dashed"
-        }
-      }
-    },
-    {
-      "ideaIdFrom": 26,
-      "ideaIdTo": 23,
-      "attr": {
-        "style": {
-          "color": "#FF0000",
-          "lineStyle": "dashed"
-        }
-      }
-    },
-    {
-      "ideaIdFrom": 17,
-      "ideaIdTo": 14,
-      "attr": {
-        "style": {
-          "color": "#FF0000",
-          "lineStyle": "dashed"
-        }
-      }
-    },
-    {
-      "ideaIdFrom": 38,
-      "ideaIdTo": 37,
-      "attr": {
-        "style": {
-          "color": "#FF0000",
-          "lineStyle": "dashed"
-        }
-      }
-    },
-    {
-      "ideaIdFrom": 39,
-      "ideaIdTo": 30,
-      "attr": {
-        "style": {
-          "color": "#FF0000",
-          "lineStyle": "dashed"
-        }
-      }
-    },
-    {
-      "ideaIdFrom": 43,
-      "ideaIdTo": 41,
-      "attr": {
-        "style": {
-          "color": "#FF0000",
-          "lineStyle": "dashed"
-        }
-      }
-    },
-    {
-      "ideaIdFrom": 45,
-      "ideaIdTo": 44,
-      "attr": {
-        "style": {
-          "color": "#FF0000",
-          "lineStyle": "dashed"
-        }
-      }
-    },
-    {
-      "ideaIdFrom": 46,
-      "ideaIdTo": 45,
-      "attr": {
-        "style": {
-          "color": "#FF0000",
-          "lineStyle": "dashed"
-        }
-      }
-    },
-    {
-      "ideaIdFrom": 47,
-      "ideaIdTo": 45,
-      "attr": {
-        "style": {
-          "color": "#FF0000",
-          "lineStyle": "dashed"
-        }
-      }
-    },
-    {
-      "ideaIdFrom": 49,
-      "ideaIdTo": 45,
-      "attr": {
-        "style": {
-          "color": "#FF0000",
-          "lineStyle": "dashed"
-        }
-      }
-    },
-    {
-      "ideaIdFrom": 58,
-      "ideaIdTo": 57,
-      "attr": {
-        "style": {
-          "color": "#FF0000",
-          "lineStyle": "dashed"
-        }
-      }
-    },
-    {
-      "ideaIdFrom": 57,
-      "ideaIdTo": 14,
-      "attr": {
-        "style": {
-          "color": "#FF0000",
-          "lineStyle": "dashed"
-        }
-      }
-    },
-    {
-      "ideaIdFrom": 59,
-      "ideaIdTo": 57,
-      "attr": {
-        "style": {
-          "color": "#FF0000",
-          "lineStyle": "dashed"
-        }
-      }
-    },
-    {
       "ideaIdFrom": 63,
       "ideaIdTo": 61,
-      "attr": {
-        "style": {
-          "color": "#FF0000",
-          "lineStyle": "dashed"
-        }
-      }
-    },
-    {
-      "ideaIdFrom": 37,
-      "ideaIdTo": 66,
-      "attr": {
-        "style": {
-          "color": "#FF0000",
-          "lineStyle": "dashed"
-        }
-      }
-    },
-    {
-      "ideaIdFrom": 67,
-      "ideaIdTo": 65,
-      "attr": {
-        "style": {
-          "color": "#FF0000",
-          "lineStyle": "dashed"
-        }
-      }
-    },
-    {
-      "ideaIdFrom": 70,
-      "ideaIdTo": 67,
-      "attr": {
-        "style": {
-          "color": "#FF0000",
-          "lineStyle": "dashed"
-        }
-      }
-    },
-    {
-      "ideaIdFrom": 73,
-      "ideaIdTo": 72,
-      "attr": {
-        "style": {
-          "color": "#FF0000",
-          "lineStyle": "dashed"
-        }
-      }
-    },
-    {
-      "ideaIdFrom": 45,
-      "ideaIdTo": 17,
-      "attr": {
-        "style": {
-          "color": "#FF0000",
-          "lineStyle": "dashed"
-        }
-      }
-    },
-    {
-      "ideaIdFrom": 17,
-      "ideaIdTo": 65,
       "attr": {
         "style": {
           "color": "#FF0000",
