@@ -1,0 +1,64 @@
+{
+  "title": "Implementing Domain-Driven Design",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "1. Getting Started with DDD",
+      "id": 2
+    },
+    "-1": {
+      "title": "2. Domains, Subdomains, and Bounded Contexts",
+      "id": 3,
+      "ideas": {}
+    },
+    "2": {
+      "title": "3. Context Maps",
+      "id": 5
+    },
+    "-2": {
+      "title": "4. Architecture",
+      "id": 6
+    },
+    "3": {
+      "title": "5. Entities",
+      "id": 7
+    },
+    "-3": {
+      "title": "6. Value Objects",
+      "id": 8
+    },
+    "4": {
+      "title": "7. Services",
+      "id": 9
+    },
+    "-4": {
+      "title": "8. Domain Events",
+      "id": 10
+    },
+    "5": {
+      "title": "9. Modules",
+      "id": 11
+    },
+    "-5": {
+      "title": "10. Aggregates",
+      "id": 12
+    },
+    "6": {
+      "title": "11. Factories",
+      "id": 13
+    },
+    "-6": {
+      "title": "12. Repositories",
+      "id": 14
+    },
+    "7": {
+      "title": "13. Integrating Bounded Contexts",
+      "id": 15
+    },
+    "-7": {
+      "title": "14. Application",
+      "id": 16
+    }
+  }
+}
