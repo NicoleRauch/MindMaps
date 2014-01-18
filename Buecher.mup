@@ -17,7 +17,7 @@
           "id": 4,
           "ideas": {
             "1": {
-              "title": "..., Paul Jackson: The Solution Focus",
+              "title": "Paul Jackson, Mark McKergow: The Solution Focus (Nicholas Brealey)",
               "id": 7,
               "attr": {
                 "style": {
@@ -58,7 +58,7 @@
               }
             },
             "3": {
-              "title": "More than Miracles",
+              "title": "Steve de Shazer: More than Miracles (Routledge)",
               "id": 9,
               "ideas": {
                 "1": {
@@ -107,7 +107,7 @@
               }
             },
             "5": {
-              "title": "McCarthy: The Core Protocols",
+              "title": "McCarthy: Software for your Head: Core Protocols (AW)",
               "id": 23,
               "ideas": {
                 "1": {
@@ -179,7 +179,7 @@
               }
             },
             "4.5": {
-              "title": "Hope, Fraser: Beyond Budgeting",
+              "title": "Hope, Fraser: Beyond Budgeting (Harvard Business Review Press)",
               "id": 65,
               "attr": {
                 "style": {
@@ -323,7 +323,7 @@
           "id": 3,
           "ideas": {
             "1": {
-              "title": "Don Reinertsen: ... Flow",
+              "title": "Don Reinertsen: ... Flow (Celeritas Publishing)",
               "id": 14,
               "ideas": {
                 "1": {
@@ -358,7 +358,7 @@
           "id": 48,
           "ideas": {
             "1": {
-              "title": "D. Hubbard: How to measure anything: Finding the value of intangibles in business",
+              "title": "D. Hubbard: How to measure anything: Finding the value of intangibles in business (Wiley)",
               "id": 49,
               "ideas": {
                 "1": {
@@ -414,7 +414,7 @@
               }
             },
             "2": {
-              "title": "Code Complete",
+              "title": "Steve McConnell: Code Complete (Microsoft Press)",
               "id": 30,
               "ideas": {
                 "1": {
@@ -429,7 +429,7 @@
               }
             },
             "3": {
-              "title": "David Agans: Debugging (9 Rules)",
+              "title": "David Agans: Debugging (9 Rules) (AMACOM)",
               "id": 31
             },
             "4": {
@@ -437,7 +437,7 @@
               "id": 40,
               "ideas": {
                 "1": {
-                  "title": "Fowler - Patterns of Enterprise Application Architecture",
+                  "title": "Fowler - Patterns of Enterprise Application Architecture (AW, Fowler Signature)",
                   "id": 41,
                   "ideas": {
                     "1": {
@@ -510,11 +510,11 @@
           "id": 32,
           "ideas": {
             "1": {
-              "title": "Steve Denning: Radical Management",
+              "title": "Steve Denning: (The Leader's Guide to) Radical Management (John Wiley & Sons)",
               "id": 33
             },
             "3": {
-              "title": "James Womack: Gemba Walks",
+              "title": "James Womack: Gemba Walks (Lean Enterprise Institute)",
               "id": 58,
               "ideas": {
                 "1": {
@@ -529,7 +529,7 @@
               }
             },
             "4": {
-              "title": "M. Czikszentmihalyi: Flow: Das Geheimnis des Glücks",
+              "title": "M. Czikszentmihalyi: Flow: Das Geheimnis des Glücks (Klett-Cotta)",
               "id": 59,
               "ideas": {
                 "1": {
