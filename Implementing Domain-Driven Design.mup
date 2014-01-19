@@ -113,25 +113,18 @@
           "title": "Domain",
           "id": 33,
           "ideas": {
-            "1": {
-              "title": "meint die Domäne der gesamten Organisation",
-              "id": 36
-            },
             "2": {
               "title": "Problemraum",
-              "id": 37
-            },
-            "3": {
-              "title": "Core Domain",
-              "id": 48,
+              "id": 37,
               "ideas": {
                 "1": {
-                  "title": "Ein nichttriviales Problem",
-                  "id": 49
-                },
-                "2": {
-                  "title": "Damit wird das Geld verdient",
-                  "id": 50
+                  "title": "Die Domäne (d. h. Fachlichkeit) der gesamten Organisation",
+                  "id": 36,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
                 }
               }
             }
@@ -142,12 +135,90 @@
           "id": 34,
           "ideas": {
             "1": {
-              "title": "Bestandteile der Domäne (= der Fachlichkeit)",
+              "title": "Teile der gesamten Domäne",
               "id": 43,
               "ideas": {
                 "1": {
                   "title": "z. B. Bestellannahme, Versand, Rechnungsstellung",
-                  "id": 44
+                  "id": 44,
+                  "ideas": {
+                    "1": {
+                      "title": "siehe Figure 2.1, Seite 45",
+                      "id": 57
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "title": "Core Domain",
+              "id": 48,
+              "ideas": {
+                "1": {
+                  "title": "Ein nichttriviales Problem, dessen gute Lösung einen Wettbewerbsvorteil verschafft",
+                  "id": 49
+                },
+                "2": {
+                  "title": "Damit wird das Geld verdient",
+                  "id": 50
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            },
+            "6": {
+              "title": "In Nicht-DDD-Applikationen sind oft mehrere Subdomänen miteinander verwoben",
+              "id": 45,
+              "ideas": {
+                "1": {
+                  "title": "Folge: Es gibt mehrere implizite Domänenmodelle",
+                  "id": 46
+                },
+                "2": {
+                  "title": "Egal wie viel man zusammenpackt, es wird niemals alle Bedürfnisse befriedigen können",
+                  "id": 47
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            },
+            "1.5": {
+              "title": "können als separate Module realisiert werden",
+              "id": 53,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            },
+            "3": {
+              "title": "Supporting Subdomain",
+              "id": 64,
+              "ideas": {
+                "2": {
+                  "title": "ist vielleicht essentiell für die Lösung, aber nicht Bestandteil der Core Domain",
+                  "id": 52,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                }
+              }
+            },
+            "8": {
+              "title": "Generic Subdomain",
+              "id": 66,
+              "ideas": {
+                "1": {
+                  "title": "Hat nicht wirklich etwas mit dem Business zu tun, ist aber erforderlich für die Lösung",
+                  "id": 67
                 }
               }
             }
@@ -159,11 +230,18 @@
           "ideas": {
             "1": {
               "title": "Lösungsraum",
-              "id": 39
-            },
-            "2": {
-              "title": "Hier liegen die Domänen-Modelle",
-              "id": 40
+              "id": 39,
+              "ideas": {
+                "1": {
+                  "title": "Die Domänen-Modelle, die der Software zugrunde liegen",
+                  "id": 40,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                }
+              }
             },
             "3": {
               "title": "Ein Domänenmodell fokussiert auf genau einen spezifischen Bereich der gesamten Business-Domäne",
@@ -172,20 +250,50 @@
             "4": {
               "title": "Ein einziges Domänenmodell für ein ganzes Unternehmen ist normalerweise zum Scheitern verurteilt",
               "id": 42
+            },
+            "1.5": {
+              "title": "Linguistische Sprachgrenze",
+              "id": 54,
+              "ideas": {
+                "1": {
+                  "title": "Die Bedeutung jedes Begriffs ist wohlverstanden",
+                  "id": 55
+                },
+                "2": {
+                  "title": "Jeder Begriff hat genau eine Bedeutung",
+                  "id": 56,
+                  "ideas": {
+                    "1": {
+                      "title": "Figure 2.1: Ein Bounded Context mit vier Subdomains: Begriffe wie z. B. \"Kunde\" können nicht eindeutig sein",
+                      "id": 58
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "title": "sind fast nie isoliert",
+              "id": 59,
+              "ideas": {
+                "1": {
+                  "title": "Context Maps schaffen die Integration",
+                  "id": 60
+                }
+              }
             }
           }
         },
         "4": {
-          "title": "In Nicht-DDD-Applikationen sind oft mehrere Subdomänen miteinander verwoben",
-          "id": 45,
+          "title": "Übungen",
+          "id": 61,
           "ideas": {
             "1": {
-              "title": "Es gibt mehrere implizite Domänenmodelle",
-              "id": 46
+              "title": "Subdomains, Bounded Contexts und ihre Beziehungen zueinander identifizieren (des gesamten Unternehmens)",
+              "id": 62
             },
             "2": {
-              "title": "Egal wie viel man zusammenpackt, es wird niemals alle Bedürfnisse befriedigen können",
-              "id": 47
+              "title": "Core Domains identifizieren",
+              "id": 63
             }
           }
         }
