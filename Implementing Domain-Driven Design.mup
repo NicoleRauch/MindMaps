@@ -5,7 +5,64 @@
   "ideas": {
     "1": {
       "title": "1. Getting Started with DDD",
-      "id": 2
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "\"Design is not just what it looks like and feels like. Design is how it works.\" - Steve Jobs",
+          "id": 17
+        },
+        "6": {
+          "title": "Fokus",
+          "id": 22,
+          "ideas": {
+            "1": {
+              "title": "DDD dient dazu, eine komplexe Domäne auf die einfachst mögliche Art zu modellieren.",
+              "id": 19,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            },
+            "2": {
+              "title": "DDD darf nicht zu einer komplexeren Lösung führen.",
+              "id": 20,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            },
+            "3": {
+              "title": "Statt zu bestimmen, was komplex ist, kann es einfacher sein zu bestimmen, was nichttrivial ist.",
+              "id": 21,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            },
+            "4": {
+              "title": "Der Code ist das Design und das Design ist der Code",
+              "id": 26
+            }
+          }
+        },
+        "7": {
+          "title": "Anämisches Domänenmodell",
+          "id": 23,
+          "ideas": {
+            "1": {
+              "title": "Wenn das Modell müde, lustlos, vergesslich und ungeschickt wirkt",
+              "id": 24
+            },
+            "2": {
+              "title": "Oft kein Domänenmodell, sondern nur ein Datenmodell",
+              "id": 25
+            }
+          }
+        }
+      }
     },
     "-1": {
       "title": "2. Domains, Subdomains, and Bounded Contexts",
@@ -60,5 +117,6 @@
       "title": "14. Application",
       "id": 16
     }
-  }
+  },
+  "links": []
 }
