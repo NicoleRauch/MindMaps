@@ -124,7 +124,17 @@
                     "style": {
                       "background": "#E0E0E0"
                     }
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "Core Domain und Supporting Subdomains",
+                      "id": 74
+                    }
                   }
+                },
+                "2": {
+                  "title": "hier kann über eine strategische Herausforderung für das Business nachgedacht werden, die gelöst werden muss",
+                  "id": 72
                 }
               }
             }
@@ -156,7 +166,13 @@
               "ideas": {
                 "1": {
                   "title": "Ein nichttriviales Problem, dessen gute Lösung einen Wettbewerbsvorteil verschafft",
-                  "id": 49
+                  "id": 49,
+                  "ideas": {
+                    "1": {
+                      "title": "Hier muss herausragende Arbeit geleistet werden",
+                      "id": 68
+                    }
+                  }
                 },
                 "2": {
                   "title": "Damit wird das Geld verdient",
@@ -218,7 +234,13 @@
               "ideas": {
                 "1": {
                   "title": "Hat nicht wirklich etwas mit dem Business zu tun, ist aber erforderlich für die Lösung",
-                  "id": 67
+                  "id": 67,
+                  "ideas": {
+                    "1": {
+                      "title": "Z. B. Benutzer und Rollen",
+                      "id": 71
+                    }
+                  }
                 }
               }
             }
@@ -240,6 +262,10 @@
                       "background": "#E0E0E0"
                     }
                   }
+                },
+                "2": {
+                  "title": "Wie wir die Software entwickeln, um die Herausforderung des Business zu lösen",
+                  "id": 73
                 }
               }
             },
@@ -294,6 +320,14 @@
             "2": {
               "title": "Core Domains identifizieren",
               "id": 63
+            },
+            "3": {
+              "title": "Supporting und Generic Subdomains identifizieren",
+              "id": 69
+            },
+            "4": {
+              "title": "Jede Subdomain und jeden Bounded Context mit den zuständigen Domänenexperten diskutieren",
+              "id": 70
             }
           }
         }
