@@ -12,7 +12,7 @@
           "id": 17
         },
         "6": {
-          "title": "Fokus",
+          "title": "Fokus von DDD",
           "id": 22,
           "ideas": {
             "1": {
@@ -108,7 +108,88 @@
     "-1": {
       "title": "2. Domains, Subdomains, and Bounded Contexts",
       "id": 3,
-      "ideas": {}
+      "ideas": {
+        "1": {
+          "title": "Domain",
+          "id": 33,
+          "ideas": {
+            "1": {
+              "title": "meint die Domäne der gesamten Organisation",
+              "id": 36
+            },
+            "2": {
+              "title": "Problemraum",
+              "id": 37
+            },
+            "3": {
+              "title": "Core Domain",
+              "id": 48,
+              "ideas": {
+                "1": {
+                  "title": "Ein nichttriviales Problem",
+                  "id": 49
+                },
+                "2": {
+                  "title": "Damit wird das Geld verdient",
+                  "id": 50
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "Subdomains",
+          "id": 34,
+          "ideas": {
+            "1": {
+              "title": "Bestandteile der Domäne (= der Fachlichkeit)",
+              "id": 43,
+              "ideas": {
+                "1": {
+                  "title": "z. B. Bestellannahme, Versand, Rechnungsstellung",
+                  "id": 44
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "title": "Bounded Contexts",
+          "id": 35,
+          "ideas": {
+            "1": {
+              "title": "Lösungsraum",
+              "id": 39
+            },
+            "2": {
+              "title": "Hier liegen die Domänen-Modelle",
+              "id": 40
+            },
+            "3": {
+              "title": "Ein Domänenmodell fokussiert auf genau einen spezifischen Bereich der gesamten Business-Domäne",
+              "id": 41
+            },
+            "4": {
+              "title": "Ein einziges Domänenmodell für ein ganzes Unternehmen ist normalerweise zum Scheitern verurteilt",
+              "id": 42
+            }
+          }
+        },
+        "4": {
+          "title": "In Nicht-DDD-Applikationen sind oft mehrere Subdomänen miteinander verwoben",
+          "id": 45,
+          "ideas": {
+            "1": {
+              "title": "Es gibt mehrere implizite Domänenmodelle",
+              "id": 46
+            },
+            "2": {
+              "title": "Egal wie viel man zusammenpackt, es wird niemals alle Bedürfnisse befriedigen können",
+              "id": 47
+            }
+          }
+        }
+      }
     },
     "2": {
       "title": "3. Context Maps",
