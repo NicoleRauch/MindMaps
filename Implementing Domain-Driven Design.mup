@@ -133,6 +133,12 @@
             }
           }
         }
+      },
+      "attr": {
+        "collapsed": true,
+        "style": {
+          "background": "#E0E0E0"
+        }
       }
     },
     "-1": {
@@ -378,6 +384,9 @@
                     }
                   }
                 }
+              },
+              "attr": {
+                "collapsed": true
               }
             },
             "5": {
@@ -498,6 +507,12 @@
               "id": 70
             }
           }
+        }
+      },
+      "attr": {
+        "collapsed": true,
+        "style": {
+          "background": "#E0E0E0"
         }
       }
     },
