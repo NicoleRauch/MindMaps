@@ -207,6 +207,25 @@
                 "2": {
                   "title": "Damit wird das Geld verdient",
                   "id": 50
+                },
+                "3": {
+                  "title": "Zu klären:",
+                  "id": 77,
+                  "ideas": {
+                    "1": {
+                      "title": "Name und Vision",
+                      "id": 78
+                    },
+                    "2": {
+                      "title": "Welche Konzepte gehören hier hinein?",
+                      "id": 79,
+                      "ideas": {}
+                    },
+                    "3": {
+                      "title": "Welche anderen Subdomains werden benötigt?",
+                      "id": 81
+                    }
+                  }
                 }
               },
               "attr": {
@@ -322,18 +341,137 @@
                     "1": {
                       "title": "Figure 2.1: Ein Bounded Context mit vier Subdomains: Begriffe wie z. B. \"Kunde\" können nicht eindeutig sein",
                       "id": 58
+                    },
+                    "2": {
+                      "title": "Das Modell repräsentiert genau diese Bedeutung",
+                      "id": 87
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Gleiche oder ähnliche Begriffe in verschiedenen Modellen haben oft unterschiedliche Bedeutungen",
+                  "id": 88,
+                  "ideas": {
+                    "1": {
+                      "title": "Bounded Contexts machen die Bedeutungsgrenzen sichtbar",
+                      "id": 89
+                    },
+                    "0.5": {
+                      "title": "Innerhalb eines Bounded Context ist jeder Begriff eindeutig",
+                      "id": 90
+                    },
+                    "2": {
+                      "title": "Jeder Name wird immer im Hinblick auf die Ubiquitous Language festgelegt",
+                      "id": 92,
+                      "ideas": {
+                        "1": {
+                          "title": "Man gibt einem Konzept nicht einen beliebigen Namen, bloß um es unterscheidbar zu machen",
+                          "id": 93,
+                          "ideas": {
+                            "1": {
+                              "title": "Beispiel: Account im Checking Context und Account im Savings Context",
+                              "id": 94
+                            }
+                          }
+                        }
+                      }
                     }
                   }
                 }
               }
             },
             "5": {
-              "title": "sind fast nie isoliert",
+              "title": "treten fast nie isoliert auf",
               "id": 59,
               "ideas": {
                 "1": {
                   "title": "Context Maps schaffen die Integration",
                   "id": 60
+                }
+              }
+            },
+            "6": {
+              "title": "Idealziel: Eins-zu-Eins-Beziehungen zwischen Subdomains und Bounded Contexts",
+              "id": 75,
+              "ideas": {
+                "1": {
+                  "title": "dies zerlegt das Domänenmodell in wohldefinierte Geschäftsbereiche",
+                  "id": 76
+                }
+              }
+            },
+            "7": {
+              "title": "Zu klären:",
+              "id": 82,
+              "ideas": {
+                "1": {
+                  "title": "Wo haben die Begriffe der Ubiquitous Language eine unterschiedliche Bedeutung?",
+                  "id": 83
+                },
+                "2": {
+                  "title": "Wo überlappen sich Konzepte und Daten verschiedener Bounded Contexts?",
+                  "id": 84
+                },
+                "3": {
+                  "title": "Welcher Bounded Context enthält die Konzepte der Core Domain?",
+                  "id": 85,
+                  "ideas": {}
+                }
+              }
+            },
+            "8": {
+              "title": "Weitere Bestandteile eines Bounded Contexts",
+              "id": 95,
+              "ideas": {
+                "1": {
+                  "title": "Kann ein System, eine Applikation oder einen Business Service enthalten",
+                  "id": 96
+                },
+                "2": {
+                  "title": "Entsteht ein Persistenzschema aus einem Domänenmodel heraus, gehört auch das Schema zum Bounded Context",
+                  "id": 97,
+                  "ideas": {
+                    "1": {
+                      "title": "Wenn das Schema vorher schon da war oder im Widerspruch zur Domäne steht, gehört es nicht zum Bounded Context",
+                      "id": 98
+                    }
+                  }
+                },
+                "3": {
+                  "title": "UI-Views",
+                  "id": 99
+                },
+                "4": {
+                  "title": "Service-orientierte Komponenten (Webservices etc.)",
+                  "id": 100
+                }
+              }
+            },
+            "9": {
+              "title": "Festlegung der Größe",
+              "id": 101,
+              "ideas": {
+                "1": {
+                  "title": "Alles Wichtige muss drin sein",
+                  "id": 102
+                },
+                "2": {
+                  "title": "Alles Unnötige muss draußen sein",
+                  "id": 103,
+                  "ideas": {
+                    "1": {
+                      "title": "Nicht von architekturellen Einflüssen leiten lassen, sondern von der Ubiquitous Language",
+                      "id": 104
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Nicht voreilig miniaturisieren",
+                  "id": 105
+                },
+                "4": {
+                  "title": "Idealerweise ein Team (Entwickler + Business Leute) pro Bounded Context",
+                  "id": 106
                 }
               }
             }
