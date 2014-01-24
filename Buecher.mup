@@ -234,6 +234,27 @@
               "background": "#E0E0E0"
             }
           }
+        },
+        "3": {
+          "title": "Non-Violent Communication",
+          "id": 100,
+          "ideas": {
+            "1": {
+              "title": "M. Rosenberg: The surprising purpose of anger (Gazelle Book Services) / Was deine Wut dir sagen will (Junfermann)",
+              "id": 101,
+              "ideas": {
+                "1": {
+                  "title": "Bob Marshall, Jan. 2014",
+                  "id": 102,
+                  "attr": {
+                    "style": {
+                      "background": "#ffff99"
+                    }
+                  }
+                }
+              }
+            }
+          }
         }
       }
     },
