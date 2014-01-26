@@ -501,6 +501,15 @@
                       "background": "#ffff99"
                     }
                   }
+                },
+                "2": {
+                  "title": "Jens Schauder",
+                  "id": 103,
+                  "attr": {
+                    "style": {
+                      "background": "#ffff99"
+                    }
+                  }
                 }
               }
             },
