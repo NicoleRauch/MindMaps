@@ -1,5 +1,5 @@
 {
-  "title": "Bücher",
+  "title": "BÃ¼cher",
   "id": 1,
   "formatVersion": 2,
   "ideas": {
@@ -178,6 +178,27 @@
                 }
               }
             },
+            "8": {
+              "title": "Jason Little: Lean Change Management (Leanpub)",
+              "id": 6,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "Lean Coffee zum Culture Hacking",
+                  "id": 5,
+                  "ideas": {},
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                }
+              }
+            },
             "4.5": {
               "title": "Hope, Fraser: Beyond Budgeting (Harvard Business Review Press)",
               "id": 65,
@@ -202,27 +223,6 @@
                   "attr": {
                     "style": {
                       "background": "#ffff99"
-                    }
-                  }
-                }
-              }
-            },
-            "8": {
-              "title": "Jason Little: Lean Change Management (Leanpub)",
-              "id": 6,
-              "attr": {
-                "style": {
-                  "background": "#E0E0E0"
-                }
-              },
-              "ideas": {
-                "1": {
-                  "title": "Lean Coffee zum Culture Hacking",
-                  "id": 5,
-                  "ideas": {},
-                  "attr": {
-                    "style": {
-                      "background": "#E0E0E0"
                     }
                   }
                 }
@@ -254,6 +254,33 @@
                 }
               }
             }
+          }
+        },
+        "2.5": {
+          "title": "Behaviour",
+          "id": 107,
+          "ideas": {
+            "1": {
+              "title": "Edward de Bono: Six Thinking Hats",
+              "id": 105,
+              "ideas": {
+                "1": {
+                  "title": "Jeffrey Fredrick",
+                  "id": 106,
+                  "attr": {
+                    "style": {
+                      "background": "#ffff99"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "style": {}
           }
         }
       }
@@ -294,7 +321,7 @@
           }
         },
         "2": {
-          "title": "Spiritualität",
+          "title": "SpiritualitÃ¤t",
           "id": 34,
           "ideas": {
             "1": {
@@ -309,7 +336,7 @@
           }
         },
         "3": {
-          "title": "Kreativität",
+          "title": "KreativitÃ¤t",
           "id": 10,
           "ideas": {
             "1": {
@@ -559,7 +586,7 @@
               }
             },
             "4": {
-              "title": "M. Czikszentmihalyi: Flow: Das Geheimnis des Glücks (Klett-Cotta)",
+              "title": "M. Czikszentmihalyi: Flow: Das Geheimnis des GlÃ¼cks (Klett-Cotta)",
               "id": 59,
               "ideas": {
                 "1": {
@@ -570,6 +597,15 @@
                     }
                   },
                   "id": 96
+                },
+                "2": {
+                  "title": "Jeffrey Fredrick",
+                  "id": 104,
+                  "attr": {
+                    "style": {
+                      "background": "#ffff99"
+                    }
+                  }
                 }
               }
             },
